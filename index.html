@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Mensa Macros</title>
+<style>
+:root{--bg:#faf8f4;--card:#fff;--ink:#1f2a24;--mute:#6b766f;--line:#e6e1d8;--acc:#2f7d5b}
+@media (prefers-color-scheme:dark){:root{--bg:#161a18;--card:#1f2522;--ink:#eef2ef;--mute:#9aa6a0;--line:#2d3632}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 -apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:640px;margin:0 auto;padding:20px 16px 130px}h1{font-size:1.4rem;margin:0 0 4px}
+.sub{color:var(--mute);margin:0 0 16px;font-size:.92rem}h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mute);margin:18px 0 8px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:8px;display:flex;gap:12px}
+.card.on{border-color:var(--acc)}.card input{margin-top:5px;width:20px;height:20px;accent-color:var(--acc);flex:none}
+.name{font-weight:600}.de,.note{color:var(--mute);font-size:.82rem}
+.m{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px;font-size:.82rem}.m span{padding:2px 8px;border-radius:99px;background:var(--bg);border:1px solid var(--line)}
+.bar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);padding:12px 16px calc(12px + env(safe-area-inset-bottom,0px))}
+.bar>div{max-width:640px;margin:0 auto}.tot{display:flex;justify-content:space-between;font-weight:700}
+.stack{display:flex;height:8px;border-radius:99px;overflow:hidden;background:var(--line);margin:8px 0 6px}.stack i{display:block;height:100%}
+.leg{display:flex;gap:14px;font-size:.82rem;color:var(--mute)}.tag{font-size:.75rem;color:var(--mute);margin-top:16px}
+</style></head><body>
+<main>
+<h1>🍽️ <span id="mensa">Mensa</span></h1>
+<p class="sub" id="date">Loading…</p>
+<div id="list"></div>
+<p class="tag">AI estimates for a typical portion. Real values vary.</p>
+</main>
+<div class="bar"><div>
+<div class="tot"><span id="tk">0 kcal</span><span id="tn">0 selected</span></div>
+<div class="stack"><i id="sp" style="background:#d9534f"></i><i id="sc" style="background:#e9a23b"></i><i id="sf" style="background:#4a90c2"></i></div>
+<div class="leg"><span>🔴 Protein <b id="tp">0</b> g</span><span>🟠 Carbs <b id="tc">0</b> g</span><span>🔵 Fat <b id="tf">0</b> g</span></div>
+</div></div>
+<script>
+const $=id=>document.getElementById(id);let items=[];
+const ORDER=["Special","Main","Pan","Soup","Buffet","Side","Dessert"];
+function render(){
+  const L=$("list");L.innerHTML="";
+  ORDER.concat([...new Set(items.map(i=>i.category))].filter(c=>!ORDER.includes(c))).forEach(cat=>{
+    const g=items.filter(i=>i.category===cat);if(!g.length)return;
+    const h=document.createElement("h2");h.textContent=cat;L.appendChild(h);
+    g.forEach(it=>{
+      const d=document.createElement("label");d.className="card"+(it.on?" on":"");
+      const cb=document.createElement("input");cb.type="checkbox";cb.checked=!!it.on;cb.onchange=()=>{it.on=cb.checked;render()};
+      const w=document.createElement("div");
+      const n=document.createElement("div");n.className="name";n.textContent=it.name_en;
+      const de=document.createElement("div");de.className="de";de.textContent=it.name_de;
+      const m=document.createElement("div");m.className="m";
+      ["🔥 "+it.kcal+" kcal","P "+it.protein+" g","C "+it.carbs+" g","F "+it.fat+" g"].forEach(t=>{const s=document.createElement("span");s.textContent=t;m.appendChild(s)});
+      w.append(n,de,m);
+      if(it.note){const nt=document.createElement("div");nt.className="note";nt.textContent=it.note;w.appendChild(nt)}
+      d.append(cb,w);L.appendChild(d);
+    });
+  });
+  const s=items.filter(i=>i.on),T=k=>Math.round(s.reduce((a,b)=>a+(+b[k]||0),0));
+  const p=T("protein"),c=T("carbs"),f=T("fat"),sum=(p*4+c*4+f*9)||1;
+  $("tk").textContent=T("kcal")+" kcal";$("tn").textContent=s.length+" selected";
+  $("tp").textContent=p;$("tc").textContent=c;$("tf").textContent=f;
+  $("sp").style.width=p*4/sum*100+"%";$("sc").style.width=c*4/sum*100+"%";$("sf").style.width=f*9/sum*100+"%";
+}
+fetch("menu.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  $("mensa").textContent=d.mensa;$("date").textContent=d.date;items=d.items;render();
+}).catch(()=>{$("date").textContent="Menu not available yet. Try again later."});
+</script></body></html>

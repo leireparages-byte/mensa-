@@ -13,10 +13,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install anthropic
       - run: python fetch_menu.py
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Save menu.json
         run: |
           git config user.name "menu-bot"

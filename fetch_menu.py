@@ -29,72 +29,111 @@ parts = re.split(rf"({head_re})", body)
 dishes = []
 for i in range(1, len(parts), 2):
     category = HEADERS[parts[i]]
-    for chunk in re.split(r"\d+,\d\d\s*€", parts[i + 1]):
+    for chunk in re.split(r"\d+,\d\d\s*€", parts[i + 1])[:-1]:  # last piece = text after final price, never a dish
         chunk = chunk.strip()
         if not chunk:
             continue
         name = stop.split(" " + chunk, 1)[0].strip()
-        if len(name) > 2 and "defekt" not in name.lower():
+        if len(name) > 2 and "defekt" not in name.lower() and not name.startswith("Speiseplan"):
             dishes.append((category, name))
 
 # ---------- 3. translation dictionary (German -> English) ----------
-DICT = [("Hähnchenbruststreifen", "chicken breast strips"), ("Hähnchen", "chicken"),
- ("Schweineschnitzel", "pork schnitzel"), ("Schnitzel", "schnitzel"), ("Rinderhack", "minced beef"),
- ("Bolognese", "Bolognese"), ("Gerstenrisotto", "barley risotto"), ("Risotto", "risotto"),
- ("Wokpfanne", "wok pan"), ("süß-sauer", "sweet & sour"), ("mit Soja", "with soy"),
- ("Naturreis", "brown rice"), ("Basmatireis", "basmati rice"), ("Reis", "rice"),
- ("Gemüse", "vegetables"), ("Auflauf", "bake"), ("Paprikasalsa", "pepper salsa"),
- ("Paprika", "pepper"), ("Rosmarinsauce", "rosemary sauce"), ("Rosmarin", "rosemary"), ("sauce", "sauce"), ("Sauce", "sauce"),
- ("Blattsalat", "leaf salad"), ("Salatbuffet", "salad buffet"), ("Salat", "salad"),
- ("Broccoli", "broccoli"), ("Kaisergemüse", "mixed vegetables"), ("Nudeln", "noodles"),
- ("Pudding", "pudding"), ("Spitzkohl", "pointed cabbage"), ("Möhren", "carrots"),
- ("Eintopf", "stew"), ("Suppe", "soup"), ("Zitronen", "lemon"), ("Zitrone", "lemon"),
- ("Kartoffel", "potato"), ("Pommes", "fries"), ("Püree", "mash"), ("Lachs", "salmon"),
- ("Wildlachs", "wild salmon"), ("Fisch", "fish"), ("Kichererbsen", "chickpeas"),
- ("Linsen", "lentils"), ("Kokos", "coconut"), ("Pfeffer", "pepper"), ("Rahm", "cream"),
- ("Pilz", "mushroom"), ("Käse", "cheese"), ("Ei", "egg"), ("Pizza", "pizza"),
- ("Currywurst", "curry sausage"), ("Bratwurst", "bratwurst"), ("Frische", "fresh"),
- ("Bio", "organic"), ("und", "and"), ("mit", "with"), ("vom", "from the"), ("in", "in"),
- ("Spätzle", "spaetzle"), ("Ragout", "ragout"), ("Tofu", "tofu"), ("Kürbis", "pumpkin"),
- ("Tomaten", "tomato"), ("Hackfleisch", "minced meat"), ("Rind", "beef"), ("Schwein", "pork")]
+# Words of 5+ letters are also replaced inside long German compound words.
+DICT = {
+ # meat & fish
+ "Hähnchenbruststreifen":"chicken breast strips","Hähnchenstreifen":"chicken strips","Hähnchenbrust":"chicken breast",
+ "Hähnchen":"chicken","Hühnchen":"chicken","Geflügel":"poultry","Putenbrust":"turkey breast","Pute":"turkey",
+ "Schweineschnitzel":"pork schnitzel","Schnitzel":"schnitzel","Schweinebraten":"roast pork","Schweine":"pork",
+ "Rinderhackfleisch":"minced beef","Rinderhack":"minced beef","Rindergulasch":"beef goulash","Gulasch":"goulash",
+ "Rinder":"beef","Hackfleisch":"minced meat","Hackbraten":"meatloaf","Frikadelle":"meatball","Fleischbällchen":"meatballs",
+ "Currywurst":"curry sausage","Bratwurst":"bratwurst","Wurst":"sausage","Schinken":"ham","Speck":"bacon",
+ "Wildlachs":"wild salmon","Lachs":"salmon","Seelachs":"pollock","Fischstäbchen":"fish fingers","Fisch":"fish",
+ "Garnelen":"prawns","Thunfisch":"tuna","Forelle":"trout",
+ # veg & plant-based
+ "Gemüse":"vegetables","Kaisergemüse":"mixed vegetables","Ofengemüse":"oven vegetables","Gemüsecurry":"vegetable curry",
+ "Blattsalat":"leaf salad","Salatbuffet":"salad buffet","Salat":"salad","Broccoli":"broccoli","Brokkoli":"broccoli",
+ "Blumenkohl":"cauliflower","Spitzkohl":"pointed cabbage","Rotkohl":"red cabbage","Weißkohl":"white cabbage","Kohl":"cabbage",
+ "Möhren":"carrots","Karotten":"carrots","Kürbis":"pumpkin","Zucchini":"zucchini","Aubergine":"aubergine",
+ "Paprika":"pepper","Tomaten":"tomato","Tomate":"tomato","Spinat":"spinach","Champignon":"mushroom","Pilz":"mushroom",
+ "Röstzwiebeln":"fried onions","Zwiebeln":"onions","Zwiebel":"onion","Würstchen":"sausages","Pilze":"mushrooms","Knoblauch":"garlic","Mais":"corn","Erbsen":"peas","Bohnen":"beans","Kichererbsen":"chickpeas",
+ "Linsen":"lentils","Tofu":"tofu","Falafel":"falafel","Soja":"soy","Kokos":"coconut","Erdnuss":"peanut",
+ # carbs
+ "Basmatireis":"basmati rice","Naturreis":"brown rice","Vollkornreis":"whole grain rice","Risotto":"risotto",
+ "Gerstenrisotto":"barley risotto","Reis":"rice","Nudeln":"noodles","Spaghetti":"spaghetti","Tortellini":"tortellini",
+ "Lasagne":"lasagne","Gnocchi":"gnocchi","Spätzle":"spaetzle","Kartoffeln":"potatoes","Kartoffel":"potato",
+ "Bratkartoffeln":"fried potatoes","Pommes":"fries","Püree":"mash","Reibekuchen":"potato pancakes","Klöße":"dumplings",
+ "Knödel":"dumplings","Brot":"bread","Pizza":"pizza","Burger":"burger","Döner":"doner",
+ # dishes, sauces, dessert
+ "Wokpfanne":"wok pan","Pfanne":"pan","Auflauf":"bake","Eintopf":"stew","Suppe":"soup","Curry":"curry",
+ "Bolognese":"Bolognese","Rahmsauce":"cream sauce","Rahm":"cream","Sahne":"cream","Sauce":"sauce","Soße":"sauce",
+ "Ragout":"ragout","Salsa":"salsa","Dip":"dip","Pudding":"pudding","Kuchen":"cake","Kaiserschmarrn":"shredded pancake",
+ "Pfannkuchen":"pancakes","Apfelmus":"apple sauce","Quark":"quark","Joghurt":"yoghurt","Obst":"fruit","Eis":"ice cream",
+ "Käse":"cheese","Mozzarella":"mozzarella","Feta":"feta","Ei":"egg","Eier":"eggs","Rührei":"scrambled egg",
+ # flavours & misc
+ "Zitronen":"lemon","Zitrone":"lemon","Rosmarin":"rosemary","Basilikum":"basil","Mandel":"almond","Pesto":"pesto",
+ "Pfeffer":"pepper","Kräuter":"herbs","Senf":"mustard","Honig":"honey","süß-sauer":"sweet & sour","Bio":"organic",
+ "Frische":"fresh","frische":"fresh","gebraten":"fried","gebackene":"baked","gebackener":"baked","gegrillt":"grilled",
+ "überbacken":"gratinated","gefüllte":"stuffed","gefüllter":"stuffed","Art":"style",
+ "und":"and","mit":"with","vom":"from the","auf":"on","dazu":"plus","Soja":"soy"}
 def translate(s):
     out = s
-    for de, en in sorted(DICT, key=lambda p: -len(p[0])):
-        out = re.sub(rf"(?<![A-Za-zäöüÄÖÜß]){re.escape(de)}", en, out)
-    return out[0].upper() + out[1:]
+    for de, en in sorted(DICT.items(), key=lambda p: -len(p[0])):
+        if de.lower() == en.lower():
+            continue
+        if len(de) >= 5:
+            out = re.sub(re.escape(de), " " + en + " ", out, flags=re.I)
+        else:
+            out = re.sub(rf"(?<![A-Za-zäöüÄÖÜß]){re.escape(de)}(?![A-Za-zäöüÄÖÜß])", en, out)
+    out = out.replace('"', "")
+    out = re.sub(r"\s*-\s*", " ", out)
+    out = re.sub(r"\s+", " ", out).strip()
+    return out[:1].upper() + out[1:]
 
 # ---------- 4. macro estimates: kcal, protein, carbs, fat ----------
+# First match wins, so specific words come before general ones.
 BY_KEYWORD = [
  (["pizza"], 800, 32, 100, 28), (["döner", "kebab"], 750, 35, 70, 34),
- (["currywurst", "wurst"], 780, 26, 70, 44), (["schnitzel"], 560, 34, 28, 33),
- (["burger"], 850, 32, 70, 46), (["pasta", "spaghetti", "nudel", "penne", "lasagne"], 700, 26, 95, 24),
- (["hähnchen", "geflügel", "pute"], 620, 40, 70, 18), (["fisch", "lachs", "forelle"], 580, 36, 55, 22),
- (["curry", "linsen", "kichererbsen", "chili", "dal"], 620, 22, 88, 16),
- (["risotto", "reis"], 620, 16, 100, 14), (["kartoffel", "püree", "pommes"], 560, 12, 80, 20),
- (["wok", "tofu", "falafel", "gemüse"], 540, 18, 75, 16), (["auflauf", "gratin"], 620, 20, 80, 24)]
-SIDES = [(["salat"], 70, 2, 6, 4), (["nudel", "reis", "kartoffel", "pommes", "spätzle"], 260, 8, 52, 2),
-         (["gemüse", "broccoli", "möhren", "kohl"], 60, 4, 7, 2)]
-BY_CATEGORY = {"Dessert": (220, 6, 34, 7), "Soup": (230, 7, 32, 7), "Buffet": (150, 5, 12, 9)}
+ (["currywurst"], 780, 26, 70, 44), (["burger"], 850, 32, 70, 46),
+ (["kaiserschmarrn", "pfannkuchen", "germknödel"], 720, 16, 100, 26),
+ (["fischstäbchen"], 520, 24, 60, 18), (["schnitzel", "cordon"], 560, 34, 28, 33),
+ (["braten", "gulasch", "hackbraten", "frikadelle", "fleischbällchen"], 600, 38, 40, 28),
+ (["bratwurst", "wurst"], 700, 24, 55, 42), (["käsespätzle", "spätzle"], 720, 26, 85, 28),
+ (["tortellini", "lasagne", "spaghetti", "penne", "pasta", "nudel"], 700, 26, 95, 24),
+ (["gnocchi"], 650, 16, 105, 16), (["reibekuchen", "kartoffelpuffer"], 600, 10, 70, 30),
+ (["hähnchen", "hühnchen", "geflügel", "pute"], 620, 40, 70, 18),
+ (["lachs", "forelle", "fisch", "seelachs", "garnelen", "thunfisch"], 580, 36, 55, 22),
+ (["chili", "curry", "linsen", "kichererbsen", "dal"], 620, 22, 88, 16),
+ (["risotto", "reis"], 620, 16, 100, 14), (["kartoffel", "püree", "pommes", "klöße", "knödel"], 560, 12, 80, 20),
+ (["auflauf", "gratin", "überbacken"], 620, 20, 80, 24), (["wok", "tofu", "falafel", "gemüse", "veggie"], 540, 18, 75, 16),
+ (["salatteller", "salat"], 350, 12, 25, 22), (["suppe", "eintopf"], 300, 12, 38, 10),
+ (["ei ", "omelett", "rührei"], 520, 24, 40, 28)]
+SIDES = [(["salat"], 70, 2, 6, 4), (["nudel", "reis", "kartoffel", "pommes", "spätzle", "püree", "brot"], 260, 8, 52, 2),
+         (["gemüse", "broccoli", "brokkoli", "möhren", "karotten", "kohl", "spinat", "bohnen"], 60, 4, 7, 2)]
+DEFAULT_BY_CATEGORY = {"Special": (800, 30, 95, 30), "Main": (600, 24, 72, 22), "Pan": (600, 30, 70, 20),
+                       "Dessert": (220, 6, 34, 7), "Soup": (230, 7, 32, 7), "Buffet": (150, 5, 12, 9),
+                       "Side": (150, 4, 25, 3)}
 
 def estimate(cat, name):
-    n = name.lower()
-    if cat in BY_CATEGORY:
-        return BY_CATEGORY[cat], "Category estimate"
+    n = name.lower() + " "
+    if cat == "Dessert":
+        return DEFAULT_BY_CATEGORY[cat]
     if cat == "Side":
         for kws, *m in SIDES:
             if any(k in n for k in kws):
-                return tuple(m), "Side estimate"
-        return (150, 4, 25, 3), "Generic side estimate"
+                return tuple(m)
+        return DEFAULT_BY_CATEGORY[cat]
+    if cat in ("Soup", "Buffet"):
+        return DEFAULT_BY_CATEGORY[cat]
     for kws, *m in BY_KEYWORD:
         if any(k in n for k in kws):
-            return tuple(m), "Estimate from dish type"
-    return (600, 24, 70, 22), "Generic estimate (dish not recognised)"
+            return tuple(m)
+    return DEFAULT_BY_CATEGORY.get(cat, (600, 24, 70, 22))
 
 items = []
 for cat, name in dishes:
-    (kcal, p, c, f), note = estimate(cat, name)
+    kcal, p, c, f = estimate(cat, name)
     items.append({"name_de": name, "name_en": translate(name), "category": cat,
-                  "kcal": kcal, "protein": p, "carbs": c, "fat": f, "note": note})
+                  "kcal": kcal, "protein": p, "carbs": c, "fat": f, "note": "Rough estimate"})
 
 out = {"mensa": "Mensa Campo",
        "date": datetime.now(ZoneInfo("Europe/Berlin")).strftime("%a %d %b %Y"),

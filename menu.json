@@ -1,7 +1,17 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 28 Sep 2026",
+ "date": "Tue 29 Sep 2026",
  "items": [
+  {
+   "name_de": "Pizza \"Salami\"",
+   "name_en": "Pizza Salami",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
   {
    "name_de": "Pizza \"Margherita\"",
    "name_en": "Pizza Margherita",
@@ -13,43 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Hähnchen Döner\"",
-   "name_en": "Pizza chicken doner",
-   "category": "Special",
-   "kcal": 800,
-   "protein": 32,
-   "carbs": 100,
-   "fat": 28,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Wokpfanne süß-sauer mit Soja",
-   "name_en": "Wok pan sweet & sour with soy",
+   "name_de": "Tortellini CarNO mit Bärlauchsauce",
+   "name_en": "Tortellini CarNO with Bärlauchsauce",
    "category": "Main",
-   "kcal": 540,
-   "protein": 18,
-   "carbs": 75,
-   "fat": 16,
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schweineschnitzel mit Paprika-Rosmarinsauce",
-   "name_en": "Pork schnitzel with pepper rosemary sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Naturreis-Gemüse-Auflauf mit Paprikasalsa",
-   "name_en": "Brown rice vegetables bake with pepper salsa",
+   "name_de": "Gebackene Hähnchenbrust in Kokos-Currysauce",
+   "name_en": "Baked chicken breast in coconut Currysauce",
    "category": "Main",
    "kcal": 620,
-   "protein": 16,
-   "carbs": 100,
-   "fat": 14,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -63,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli Kaisergemüse",
-   "name_en": "Broccoli mixed vegetables",
+   "name_de": "Zucchinigemüse Sommergemüse",
+   "name_en": "Zucchini vegetables Sommer vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Nudeln Basmatireis",
-   "name_en": "Organic noodles basmati rice",
+   "name_de": "Kartoffelkroketten",
+   "name_en": "Potato kroketten",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +73,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pudding",
-   "name_en": "Pudding",
+   "name_de": "Vollkornreis Reisnudeln",
+   "name_en": "Whole grain rice rice noodles",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Fruchtquark",
+   "name_en": "Fruchtquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,13 +93,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Spitzkohl-Möhren-Eintopf",
-   "name_en": "Pointed cabbage carrots stew",
+   "name_de": "Blumenkohl-Bohnen-Fenchel-Suppe",
+   "name_en": "Cauliflower beans Fenchel soup",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
    "carbs": 32,
    "fat": 7,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Frische Bio Pasta Frische Bio Dinkel-Pasta, Gorgonzolasauce, Carbonara, Rinderhackfleischsauce \"Bolognese Art\", Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Sojagulasch mit Gemüse und Kichererbsen, Sojahacksauce mit Kokosmilch",
+   "name_en": "Fresh organic Pasta fresh organic Dinkel Pasta, Gorgonzolasauce, Carbonara, minced beef sauce Bolognese style, chicken breast strips in grüne pepper cream sauce , soy goulash with vegetables and chickpeas , Sojahacksauce with coconut milch",
+   "category": "Buffet",
+   "kcal": 150,
+   "protein": 5,
+   "carbs": 12,
+   "fat": 9,
    "note": "Rough estimate"
   },
   {
@@ -113,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Gerstenrisotto mit Zitronenhähnchenstreifen",
-   "name_en": "Barley risotto with lemon chicken strips",
+   "name_de": "Käsespätzle mit Röstzwiebeln, und Chinakohlsalat mit Mandarinen",
+   "name_en": "Cheese spaetzle with fried onions , and Chinakohl salad with Mandarinen",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
+   "kcal": 720,
+   "protein": 26,
+   "carbs": 85,
+   "fat": 28,
    "note": "Rough estimate"
   }
  ]

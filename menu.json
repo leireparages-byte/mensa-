@@ -43,6 +43,26 @@
    "note": "Rough estimate"
   },
   {
+   "name_de": "Wokpfanne süß-sauer mit Soja",
+   "name_en": "Wok pan sweet & sour with soy",
+   "category": "Main",
+   "kcal": 540,
+   "protein": 18,
+   "carbs": 75,
+   "fat": 16,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Schweineschnitzel mit Paprika-Rosmarinsauce",
+   "name_en": "Pork schnitzel with pepper rosemary sauce",
+   "category": "Main",
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
+   "note": "Rough estimate"
+  },
+  {
    "name_de": "Mix-Blattsalat",
    "name_en": "Mix leaf salad",
    "category": "Side",
@@ -53,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Zucchinigemüse Sommergemüse",
-   "name_en": "Zucchini vegetables Sommer vegetables",
+   "name_de": "Zucchinigemüse Kaisergemüse",
+   "name_en": "Zucchini vegetables mixed vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten",
-   "name_en": "Potato kroketten",
+   "name_de": "Kartoffelkroketten, Gnocchi",
+   "name_en": "Potato kroketten, Gnocchi",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Vollkornreis Reisnudeln",
-   "name_en": "Whole grain rice rice noodles",
+   "name_de": "Bulgur Bio Nudeln, Reis",
+   "name_en": "Bulgur organic noodles , rice",
    "category": "Side",
    "kcal": 260,
    "protein": 8,

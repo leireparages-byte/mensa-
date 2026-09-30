@@ -1,10 +1,10 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 29 Sep 2026",
+ "date": "Wed 30 Sep 2026",
  "items": [
   {
-   "name_de": "Pizza \"Salami\"",
-   "name_en": "Pizza Salami",
+   "name_de": "Pizza mit Gorgonzola",
+   "name_en": "Pizza with Gorgonzola",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,43 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Tortellini CarNO mit Bärlauchsauce",
-   "name_en": "Tortellini CarNO with Bärlauchsauce",
+   "name_de": "Blumenkohl-Möhren-Paprika-Pfanne mit Zartweizen",
+   "name_en": "Cauliflower carrots pepper pan with Zartweizen",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Pasta \"Bolognese Art\" mit Hartkäse",
+   "name_en": "Pasta Bolognese style with Hartkäse",
    "category": "Main",
    "kcal": 700,
    "protein": 26,
    "carbs": 95,
    "fat": 24,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Gebackene Hähnchenbrust in Kokos-Currysauce",
-   "name_en": "Baked chicken breast in coconut Currysauce",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Wokpfanne süß-sauer mit Soja",
-   "name_en": "Wok pan sweet & sour with soy",
-   "category": "Main",
-   "kcal": 540,
-   "protein": 18,
-   "carbs": 75,
-   "fat": 16,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Schweineschnitzel mit Paprika-Rosmarinsauce",
-   "name_en": "Pork schnitzel with pepper rosemary sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
    "note": "Rough estimate"
   },
   {
@@ -73,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Zucchinigemüse Kaisergemüse",
-   "name_en": "Zucchini vegetables mixed vegetables",
+   "name_de": "Erbsen-Möhrengemüse Bohnengemüse",
+   "name_en": "Peas carrots vegetables beans vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -83,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten, Gnocchi",
-   "name_en": "Potato kroketten, Gnocchi",
+   "name_de": "Kartoffelkroketten",
+   "name_en": "Potato kroketten",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bulgur Bio Nudeln, Reis",
-   "name_en": "Bulgur organic noodles , rice",
+   "name_de": ". Bio Nudeln, Kartoffelpüree",
+   "name_en": ". organic noodles , potato mash",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -103,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark",
-   "name_en": "Fruchtquark",
+   "name_de": "Fruchtjoghurt",
+   "name_en": "Frucht yoghurt",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -113,23 +93,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blumenkohl-Bohnen-Fenchel-Suppe",
-   "name_en": "Cauliflower beans Fenchel soup",
+   "name_de": "Grüne Bohneneintopf",
+   "name_en": "Grüne beans stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
    "carbs": 32,
    "fat": 7,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Frische Bio Pasta Frische Bio Dinkel-Pasta, Gorgonzolasauce, Carbonara, Rinderhackfleischsauce \"Bolognese Art\", Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Sojagulasch mit Gemüse und Kichererbsen, Sojahacksauce mit Kokosmilch",
-   "name_en": "Fresh organic Pasta fresh organic Dinkel Pasta, Gorgonzolasauce, Carbonara, minced beef sauce Bolognese style, chicken breast strips in grüne pepper cream sauce , soy goulash with vegetables and chickpeas , Sojahacksauce with coconut milch",
-   "category": "Buffet",
-   "kcal": 150,
-   "protein": 5,
-   "carbs": 12,
-   "fat": 9,
    "note": "Rough estimate"
   },
   {
@@ -143,13 +113,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Käsespätzle mit Röstzwiebeln, und Chinakohlsalat mit Mandarinen",
-   "name_en": "Cheese spaetzle with fried onions , and Chinakohl salad with Mandarinen",
+   "name_de": "Plant Chili Nuggets mit an Rosmarinkartoffeln, Limettenmayo",
+   "name_en": "Plant Chili Nuggets with an rosemary potatoes , Limettenmayo",
    "category": "Pan",
-   "kcal": 720,
-   "protein": 26,
-   "carbs": 85,
-   "fat": 28,
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   }
  ]

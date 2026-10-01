@@ -1,10 +1,10 @@
 {
  "mensa": "Mensa Campo",
- "date": "Wed 30 Sep 2026",
+ "date": "Thu 01 Oct 2026",
  "items": [
   {
-   "name_de": "Pizza mit Gorgonzola",
-   "name_en": "Pizza with Gorgonzola",
+   "name_de": "Pizza \"Verdure\" Vegan",
+   "name_en": "Pizza Verdure Vegan",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,6 +23,26 @@
    "note": "Rough estimate"
   },
   {
+   "name_de": "Polenta-Gemüse-Gratin Kräutersauce",
+   "name_en": "Polenta vegetables Gratin herbs sauce",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 20,
+   "carbs": 80,
+   "fat": 24,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Schweinegulasch \"Korma\" mit Joghurt und Koriander",
+   "name_en": "Pork goulash Korma with yoghurt and Koriander",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 38,
+   "carbs": 40,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
    "name_de": "Blumenkohl-Möhren-Paprika-Pfanne mit Zartweizen",
    "name_en": "Cauliflower carrots pepper pan with Zartweizen",
    "category": "Main",
@@ -30,16 +50,6 @@
    "protein": 24,
    "carbs": 72,
    "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Pasta \"Bolognese Art\" mit Hartkäse",
-   "name_en": "Pasta Bolognese style with Hartkäse",
-   "category": "Main",
-   "kcal": 700,
-   "protein": 26,
-   "carbs": 95,
-   "fat": 24,
    "note": "Rough estimate"
   },
   {
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Erbsen-Möhrengemüse Bohnengemüse",
-   "name_en": "Peas carrots vegetables beans vegetables",
+   "name_de": "Leipziger Allerlei Blumenkohl",
+   "name_en": "Leipziger Allerlei cauliflower",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten",
-   "name_en": "Potato kroketten",
+   "name_de": "Kartoffelkroketten Pommes frites Risolee",
+   "name_en": "Potato kroketten fries frites Risolee",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": ". Bio Nudeln, Kartoffelpüree",
-   "name_en": ". organic noodles , potato mash",
+   "name_de": "Kartoffelpüree Curryreis",
+   "name_en": "Potato mash Curryreis",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtjoghurt",
-   "name_en": "Frucht yoghurt",
+   "name_de": "Pudding",
+   "name_en": "Pudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Grüne Bohneneintopf",
-   "name_en": "Grüne beans stew",
+   "name_de": "Indische Linsensuppe",
+   "name_en": "Indische lentils soup",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -113,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Plant Chili Nuggets mit an Rosmarinkartoffeln, Limettenmayo",
-   "name_en": "Plant Chili Nuggets with an rosemary potatoes , Limettenmayo",
+   "name_de": "Halbes \"Grillhändel\" mit Blaukraut, und Bio Stampfkartoffeln",
+   "name_en": "Halbes Grillhändel with Blaukraut, and organic Stampf potatoes",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 560,
+   "protein": 12,
+   "carbs": 80,
+   "fat": 20,
    "note": "Rough estimate"
   }
  ]

@@ -1,10 +1,10 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 01 Oct 2026",
+ "date": "Fri 02 Oct 2026",
  "items": [
   {
-   "name_de": "Pizza \"Verdure\" Vegan",
-   "name_en": "Pizza Verdure Vegan",
+   "name_de": "Pizza Tomate Mozzarella mit Mandelpesto",
+   "name_en": "Pizza tomato Mozzarella with almond pesto",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,18 +23,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Polenta-Gemüse-Gratin Kräutersauce",
-   "name_en": "Polenta vegetables Gratin herbs sauce",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 20,
-   "carbs": 80,
-   "fat": 24,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Schweinegulasch \"Korma\" mit Joghurt und Koriander",
-   "name_en": "Pork goulash Korma with yoghurt and Koriander",
+   "name_de": "Bohnengulasch",
+   "name_en": "Beans goulash",
    "category": "Main",
    "kcal": 600,
    "protein": 38,
@@ -43,13 +33,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blumenkohl-Möhren-Paprika-Pfanne mit Zartweizen",
-   "name_en": "Cauliflower carrots pepper pan with Zartweizen",
+   "name_de": "Gebackenes Schollenfilet mit Paprika-Joghurt-Dip",
+   "name_en": "Baked s Schollenfilet with pepper yoghurt Dip",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
    "carbs": 72,
    "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Polenta-Gemüse-Gratin Kräutersauce",
+   "name_en": "Polenta vegetables Gratin herbs sauce",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 20,
+   "carbs": 80,
+   "fat": 24,
    "note": "Rough estimate"
   },
   {
@@ -63,18 +63,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Leipziger Allerlei Blumenkohl",
-   "name_en": "Leipziger Allerlei cauliflower",
+   "name_de": ". Leipziger Allerlei",
+   "name_en": ". Leipziger Allerlei",
    "category": "Side",
-   "kcal": 60,
+   "kcal": 150,
    "protein": 4,
-   "carbs": 7,
-   "fat": 2,
+   "carbs": 25,
+   "fat": 3,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten Pommes frites Risolee",
-   "name_en": "Potato kroketten fries frites Risolee",
+   "name_de": "Risoleekartoffeln",
+   "name_en": "Risolee potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelpüree Curryreis",
-   "name_en": "Potato mash Curryreis",
+   "name_de": "Kartoffelpüree Zartweizen, Bio Salzkartoffeln, Bio Spätzle, Bio Vollkornudeln & Nudeln",
+   "name_en": "Potato mash Zartweizen, organic Salz potatoes , organic spaetzle , organic Vollkor noodles & noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pudding",
-   "name_en": "Pudding",
+   "name_de": "Fruchtquark",
+   "name_en": "Fruchtquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +103,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Indische Linsensuppe",
-   "name_en": "Indische lentils soup",
+   "name_de": "Grüne Bohneneintopf",
+   "name_en": "Grüne beans stew",
+   "category": "Soup",
+   "kcal": 230,
+   "protein": 7,
+   "carbs": 32,
+   "fat": 7,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Süßes Schmankerl Pfannkuchen mit Quark-Rosinenfüllung mit Vanillesauce",
+   "name_en": "Süßes Schmankerl pancakes with Quark Rosinenfüllung with Vanillesauce",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -123,13 +133,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Halbes \"Grillhändel\" mit Blaukraut, und Bio Stampfkartoffeln",
-   "name_en": "Halbes Grillhändel with Blaukraut, and organic Stampf potatoes",
+   "name_de": "Weißwurst mit süßem Senf und Semmelknödel auf Sauerkraut",
+   "name_en": "Weiß sausage with süßem mustard and Semmel dumplings on Sauerkraut",
    "category": "Pan",
-   "kcal": 560,
-   "protein": 12,
-   "carbs": 80,
-   "fat": 20,
+   "kcal": 700,
+   "protein": 24,
+   "carbs": 55,
+   "fat": 42,
    "note": "Rough estimate"
   }
  ]

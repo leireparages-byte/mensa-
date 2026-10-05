@@ -1,17 +1,7 @@
 {
  "mensa": "Mensa Campo",
- "date": "Fri 02 Oct 2026",
+ "date": "Mon 05 Oct 2026",
  "items": [
-  {
-   "name_de": "Pizza Tomate Mozzarella mit Mandelpesto",
-   "name_en": "Pizza tomato Mozzarella with almond pesto",
-   "category": "Special",
-   "kcal": 800,
-   "protein": 32,
-   "carbs": 100,
-   "fat": 28,
-   "note": "Rough estimate"
-  },
   {
    "name_de": "Pizza \"Margherita\"",
    "name_en": "Pizza Margherita",
@@ -20,6 +10,36 @@
    "protein": 32,
    "carbs": 100,
    "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Pizza \"Speziale\"",
+   "name_en": "Pizza Speziale",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Sojageschnetzeltes \"Mediterrane Art\"",
+   "name_en": "Sojageschnetzeltes Mediterrane style",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Hähnchenbrust \"Formaggio\" mit Möhren-Bärlauch-Sauce",
+   "name_en": "Chicken breast Formaggio with carrots Bärlauch Sauce",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -33,26 +53,6 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Gebackenes Schollenfilet mit Paprika-Joghurt-Dip",
-   "name_en": "Baked s Schollenfilet with pepper yoghurt Dip",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Polenta-Gemüse-Gratin Kräutersauce",
-   "name_en": "Polenta vegetables Gratin herbs sauce",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 20,
-   "carbs": 80,
-   "fat": 24,
-   "note": "Rough estimate"
-  },
-  {
    "name_de": "Mix-Blattsalat",
    "name_en": "Mix leaf salad",
    "category": "Side",
@@ -63,18 +63,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": ". Leipziger Allerlei",
-   "name_en": ". Leipziger Allerlei",
+   "name_de": "Gemüse \"Tricolora\" Möhrengemüse, Kohlrabigemüse",
+   "name_en": "Vegetables Tricolora carrots vegetables , Kohlrabi vegetables",
    "category": "Side",
-   "kcal": 150,
+   "kcal": 60,
    "protein": 4,
-   "carbs": 25,
-   "fat": 3,
+   "carbs": 7,
+   "fat": 2,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Risoleekartoffeln",
-   "name_en": "Risolee potatoes",
+   "name_de": "Potato Wedges Bio Bratkartoffeln",
+   "name_en": "Potato Wedges organic fried potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelpüree Zartweizen, Bio Salzkartoffeln, Bio Spätzle, Bio Vollkornudeln & Nudeln",
-   "name_en": "Potato mash Zartweizen, organic Salz potatoes , organic spaetzle , organic Vollkor noodles & noodles",
+   "name_de": "Bio Nudeln",
+   "name_en": "Organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark",
-   "name_en": "Fruchtquark",
+   "name_de": "Pudding",
+   "name_en": "Pudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Grüne Bohneneintopf",
-   "name_en": "Grüne beans stew",
+   "name_de": "Linsen-Tomaten-Eintopf mit Auberginen",
+   "name_en": "Lentils tomato stew with Auberginen",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -113,13 +113,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßes Schmankerl Pfannkuchen mit Quark-Rosinenfüllung mit Vanillesauce",
-   "name_en": "Süßes Schmankerl pancakes with Quark Rosinenfüllung with Vanillesauce",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
-   "fat": 7,
+   "name_de": "Frische Bio Dinkel-Pasta Sojahacksauce \"Bolognese Art\", Gorgonzolasauce, Rucola-Mandel-Pesto, Hähnchenbruststreifen mit mediterranem Gemüse, Tomaten-Sugo",
+   "name_en": "Fresh organic Dinkel Pasta Sojahacksauce Bolognese style, Gorgonzolasauce, Rucola almond Pesto, chicken breast strips with mediterranem vegetables , tomato Sugo",
+   "category": "Buffet",
+   "kcal": 150,
+   "protein": 5,
+   "carbs": 12,
+   "fat": 9,
    "note": "Rough estimate"
   },
   {
@@ -133,13 +133,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Weißwurst mit süßem Senf und Semmelknödel auf Sauerkraut",
-   "name_en": "Weiß sausage with süßem mustard and Semmel dumplings on Sauerkraut",
+   "name_de": "Krakauer mit Currysauce und Pommes frites",
+   "name_en": "Krakauer with Currysauce and fries frites",
    "category": "Pan",
-   "kcal": 700,
-   "protein": 24,
-   "carbs": 55,
-   "fat": 42,
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   }
  ]

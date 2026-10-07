@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 06 Oct 2026",
+ "date": "Wed 07 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Spinat\"",
-   "name_en": "Pizza spinach",
+   "name_de": "Pizza \"Pollo\"",
+   "name_en": "Pizza Pollo",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,18 +23,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Tofu \"Tikka Masala\"",
-   "name_en": "Tofu Tikka Masala",
-   "category": "Main",
-   "kcal": 540,
-   "protein": 18,
-   "carbs": 75,
-   "fat": 16,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Rinderhacksteak \"Griechische Art\" mit grüne Pfeffer-Rahmsauce",
-   "name_en": "Minced beef steak Griechische style with grüne pepper cream sauce",
+   "name_de": "Bulgurpfanne mit Harissa",
+   "name_en": "Bulgur pan with Harissa",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -43,13 +33,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sojageschnetzeltes \"Mediterrane Art\"",
-   "name_en": "Sojageschnetzeltes Mediterrane style",
+   "name_de": "Putensteak mit Frankfurter grüner Sauce",
+   "name_en": "Putensteak with Frankfurter grüner Sauce",
    "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -63,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Balkangemüse Gemüse \"Tricolora\", Blumenkohlgemüse",
-   "name_en": "Balkan vegetables vegetables Tricolora, cauliflower vegetables",
+   "name_de": "Bohnengemüse Blumenkohlgemüse, Balkangemüse, Leipziger Allerlei",
+   "name_en": "Beans vegetables cauliflower vegetables , Balkan vegetables , Leipziger Allerlei",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln",
-   "name_en": "Fried potatoes",
+   "name_de": "Pommes-frites",
+   "name_en": "Fries frites",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Basmatireis Zartweizen, Nudeln, Bulgur",
-   "name_en": "Basmati rice Zartweizen, noodles , Bulgur",
+   "name_de": "Bio Salzkartoffeln Zartweizen, Reisnudeln, Reis, Gourmet-Gerste: Urkorn aus Deutschland",
+   "name_en": "Organic Salz potatoes Zartweizen, rice noodles , rice, Gourmet Gerste: Urkorn aus Deutschland",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark",
-   "name_en": "Fruchtquark",
+   "name_de": "Fruchtjoghurt",
+   "name_en": "Frucht yoghurt",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli-Kartoffeleintopf",
-   "name_en": "Broccoli potato stew",
+   "name_de": "Pichelsteiner Topf",
+   "name_en": "Pichelsteiner Topf",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -113,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Frische Bio Dinkel-Pasta, Gorgonzolasauce, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Sojagulasch mit Gemüse und Kichererbsen, Sojahacksauce mit Kokosmilch",
-   "name_en": "Fresh organic Pasta fresh organic Dinkel Pasta, Gorgonzolasauce, chicken breast strips in grüne pepper cream sauce , soy goulash with vegetables and chickpeas , Sojahacksauce with coconut milch",
+   "name_de": "Frische Bio Pasta Sojahacksauce \"Bolognese Art\", Rinderhackfleischsauce \"Bolognese Art\", Hähnchenbruststreifen in Champignon-Rahmsauce, Tofucurry \"Sumatra\", Rucola-Mandel-Pesto, Tomaten-Sugo",
+   "name_en": "Fresh organic Pasta Sojahacksauce Bolognese style, minced beef sauce Bolognese style, chicken breast strips in mushroom cream sauce , Tofucurry Sumatra, Rucola almond Pesto, tomato Sugo",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -133,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Chili sin Carne mit Eiweiß-Fladenbrot und veganem Joghurt",
-   "name_en": "Chili sin Carne with Eiweiß Fladenbrot and veganem yoghurt",
+   "name_de": "Vegetarische Maultaschen mit glasierten Karotten und Frischkäsesauce",
+   "name_en": "Vegetarische Maultaschen with glasierten carrots and Frischkäsesauce",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 600,
+   "protein": 30,
+   "carbs": 70,
+   "fat": 20,
    "note": "Rough estimate"
   }
  ]

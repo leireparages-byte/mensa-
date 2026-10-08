@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Wed 07 Oct 2026",
+ "date": "Thu 08 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,13 +13,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Pollo\"",
-   "name_en": "Pizza Pollo",
+   "name_de": "Pizza \"Verdure\" Vegan",
+   "name_en": "Pizza Verdure Vegan",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
    "carbs": 100,
    "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Möhren-Sesam-Nudeln mit Rucola",
+   "name_en": "Carrots Sesam noodles with Rucola",
+   "category": "Main",
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Schweinegeschnetzeltes mit Champignons",
+   "name_en": "Pork geschnetzeltes with mushroom s",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
    "note": "Rough estimate"
   },
   {
@@ -33,16 +53,6 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Putensteak mit Frankfurter grüner Sauce",
-   "name_en": "Putensteak with Frankfurter grüner Sauce",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
-   "note": "Rough estimate"
-  },
-  {
    "name_de": "Mix-Blattsalat",
    "name_en": "Mix leaf salad",
    "category": "Side",
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bohnengemüse Blumenkohlgemüse, Balkangemüse, Leipziger Allerlei",
-   "name_en": "Beans vegetables cauliflower vegetables , Balkan vegetables , Leipziger Allerlei",
+   "name_de": "Broccoli natur Apfelrotkohl, Mediterranes Pfannengemüse",
+   "name_en": "Broccoli natur Apfel red cabbage , Mediterranes pan n vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes-frites",
-   "name_en": "Fries frites",
+   "name_de": "Bio Bratkartoffeln",
+   "name_en": "Organic fried potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Zartweizen, Reisnudeln, Reis, Gourmet-Gerste: Urkorn aus Deutschland",
-   "name_en": "Organic Salz potatoes Zartweizen, rice noodles , rice, Gourmet Gerste: Urkorn aus Deutschland",
+   "name_de": "Reis Bio Spätzle, Bio Salzkartoffeln, Zartweizen, Gourmet-Gerste: Urkorn aus Deutschland",
+   "name_en": "Rice organic spaetzle , organic Salz potatoes , Zartweizen, Gourmet Gerste: Urkorn aus Deutschland",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtjoghurt",
-   "name_en": "Frucht yoghurt",
+   "name_de": "Pudding",
+   "name_en": "Pudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pichelsteiner Topf",
-   "name_en": "Pichelsteiner Topf",
+   "name_de": "Kartoffeleintopf mit Zucchini",
+   "name_en": "Potato stew with Zucchini",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Sojahacksauce \"Bolognese Art\", Rinderhackfleischsauce \"Bolognese Art\", Hähnchenbruststreifen in Champignon-Rahmsauce, Tofucurry \"Sumatra\", Rucola-Mandel-Pesto, Tomaten-Sugo",
-   "name_en": "Fresh organic Pasta Sojahacksauce Bolognese style, minced beef sauce Bolognese style, chicken breast strips in mushroom cream sauce , Tofucurry Sumatra, Rucola almond Pesto, tomato Sugo",
+   "name_de": "Frische Bio Pasta Basilikum-Mandel-Pesto, Champignons a la creme, Schweineragout \"Korma\" mit Joghurt und Koriander, Rinderhackfleischsauce \"Bolognese Art\", Tofucurry \"Sumatra\", Tomaten-Sugo",
+   "name_en": "Fresh organic Pasta basil almond Pesto, mushroom s a la creme, pork ragout Korma with yoghurt and Koriander, minced beef sauce Bolognese style, Tofucurry Sumatra, tomato Sugo",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -123,13 +133,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Vegetarische Maultaschen mit glasierten Karotten und Frischkäsesauce",
-   "name_en": "Vegetarische Maultaschen with glasierten carrots and Frischkäsesauce",
+   "name_de": "Gyros vom Hähnchen mit Tzatziki Fladenbrot und Spitzkohlsalat",
+   "name_en": "Gyros from the chicken with Tzatziki Fladenbrot and pointed cabbage salad",
    "category": "Pan",
-   "kcal": 600,
-   "protein": 30,
+   "kcal": 620,
+   "protein": 40,
    "carbs": 70,
-   "fat": 20,
+   "fat": 18,
    "note": "Rough estimate"
   }
  ]

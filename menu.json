@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 08 Oct 2026",
+ "date": "Fri 09 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,13 +13,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Verdure\" Vegan",
-   "name_en": "Pizza Verdure Vegan",
+   "name_de": "Pizza \"Peperoni\"",
+   "name_en": "Pizza Peperoni",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
    "carbs": 100,
    "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Kartoffel-Gemüsegratin mit Kerbel-Dill-Dip",
+   "name_en": "Potato vegetables gratin with Kerbel Dill Dip",
+   "category": "Main",
+   "kcal": 560,
+   "protein": 12,
+   "carbs": 80,
+   "fat": 20,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Lachsspieß \"Focaccia\" auf Tomatensugo",
+   "name_en": "Salmon spieß Focaccia on tomato sugo",
+   "category": "Main",
+   "kcal": 580,
+   "protein": 36,
+   "carbs": 55,
+   "fat": 22,
    "note": "Rough estimate"
   },
   {
@@ -43,16 +63,6 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bulgurpfanne mit Harissa",
-   "name_en": "Bulgur pan with Harissa",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
    "name_de": "Mix-Blattsalat",
    "name_en": "Mix leaf salad",
    "category": "Side",
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli natur Apfelrotkohl, Mediterranes Pfannengemüse",
-   "name_en": "Broccoli natur Apfel red cabbage , Mediterranes pan n vegetables",
+   "name_de": "Blattspinat Mediterranes Pfannengemüse, Bohnen-Auberginengemüse",
+   "name_en": "Blatt spinach Mediterranes pan n vegetables , beans Auberginen vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Bratkartoffeln",
-   "name_en": "Organic fried potatoes",
+   "name_de": "Kartoffelkroketten",
+   "name_en": "Potato kroketten",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Bio Spätzle, Bio Salzkartoffeln, Zartweizen, Gourmet-Gerste: Urkorn aus Deutschland",
-   "name_en": "Rice organic spaetzle , organic Salz potatoes , Zartweizen, Gourmet Gerste: Urkorn aus Deutschland",
+   "name_de": "Bio Salzkartoffeln Bio Nudeln",
+   "name_en": "Organic Salz potatoes organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pudding",
-   "name_en": "Pudding",
+   "name_de": "Fruchtquark",
+   "name_en": "Fruchtquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -113,8 +123,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Basilikum-Mandel-Pesto, Champignons a la creme, Schweineragout \"Korma\" mit Joghurt und Koriander, Rinderhackfleischsauce \"Bolognese Art\", Tofucurry \"Sumatra\", Tomaten-Sugo",
-   "name_en": "Fresh organic Pasta basil almond Pesto, mushroom s a la creme, pork ragout Korma with yoghurt and Koriander, minced beef sauce Bolognese style, Tofucurry Sumatra, tomato Sugo",
+   "name_de": "Süßes Schmankerl Milchreis",
+   "name_en": "Süßes Schmankerl Milchreis",
+   "category": "Soup",
+   "kcal": 230,
+   "protein": 7,
+   "carbs": 32,
+   "fat": 7,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Frische Bio Pasta Champignons a la creme, Schweineragout \"Korma\" mit Joghurt und Koriander, Chili sin Carne, Hähnchenbruststreifen in Champignon-Rahmsauce, Basilikum-Mandel-Pesto, Tomaten-Sugo",
+   "name_en": "Fresh organic Pasta mushroom s a la creme, pork ragout Korma with yoghurt and Koriander, Chili sin Carne, chicken breast strips in mushroom cream sauce , basil almond Pesto, tomato Sugo",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -133,13 +153,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Gyros vom Hähnchen mit Tzatziki Fladenbrot und Spitzkohlsalat",
-   "name_en": "Gyros from the chicken with Tzatziki Fladenbrot and pointed cabbage salad",
+   "name_de": "Tofugulasch \"Korma\" Reis",
+   "name_en": "Tofu goulash Korma rice",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
+   "kcal": 600,
+   "protein": 38,
+   "carbs": 40,
+   "fat": 28,
    "note": "Rough estimate"
   }
  ]

@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Fri 09 Oct 2026",
+ "date": "Mon 12 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Peperoni\"",
-   "name_en": "Pizza Peperoni",
+   "name_de": "Pizza \"Salami\"",
+   "name_en": "Pizza Salami",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,48 +23,28 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffel-Gemüsegratin mit Kerbel-Dill-Dip",
-   "name_en": "Potato vegetables gratin with Kerbel Dill Dip",
+   "name_de": "Blumenkohl-Kartoffel-Curry",
+   "name_en": "Cauliflower potato Curry",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Hähnchenschnitzel mit Paprikarahmsauce",
+   "name_en": "Chicken schnitzel with pepper cream sauce",
    "category": "Main",
    "kcal": 560,
-   "protein": 12,
-   "carbs": 80,
-   "fat": 20,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Lachsspieß \"Focaccia\" auf Tomatensugo",
-   "name_en": "Salmon spieß Focaccia on tomato sugo",
-   "category": "Main",
-   "kcal": 580,
-   "protein": 36,
-   "carbs": 55,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Möhren-Sesam-Nudeln mit Rucola",
-   "name_en": "Carrots Sesam noodles with Rucola",
-   "category": "Main",
-   "kcal": 700,
-   "protein": 26,
-   "carbs": 95,
-   "fat": 24,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Schweinegeschnetzeltes mit Champignons",
-   "name_en": "Pork geschnetzeltes with mushroom s",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat",
-   "name_en": "Mix leaf salad",
+   "name_de": "Mix-Blattsalat Dressing",
+   "name_en": "Mix leaf salad Dressing",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -73,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blattspinat Mediterranes Pfannengemüse, Bohnen-Auberginengemüse",
-   "name_en": "Blatt spinach Mediterranes pan n vegetables , beans Auberginen vegetables",
+   "name_de": "Pariser Karotten Sommergemüse, Bohnengemüse",
+   "name_en": "Pariser carrots Sommer vegetables , beans vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -83,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten",
-   "name_en": "Potato kroketten",
+   "name_de": "Herzoginkartoffeln Potato Wedges",
+   "name_en": "Herzogin potatoes Potato Wedges",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Bio Nudeln",
-   "name_en": "Organic Salz potatoes organic noodles",
+   "name_de": "Basmatireis Bio Nudeln",
+   "name_en": "Basmati rice organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -103,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark",
-   "name_en": "Fruchtquark",
+   "name_de": "Schokopudding",
+   "name_en": "Schokopudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -113,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffeleintopf mit Zucchini",
-   "name_en": "Potato stew with Zucchini",
+   "name_de": "Kartoffelsuppe mit Minze und roten Linsen",
+   "name_en": "Potato soup with Minze and roten lentils",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -123,18 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßes Schmankerl Milchreis",
-   "name_en": "Süßes Schmankerl Milchreis",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
-   "fat": 7,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Frische Bio Pasta Champignons a la creme, Schweineragout \"Korma\" mit Joghurt und Koriander, Chili sin Carne, Hähnchenbruststreifen in Champignon-Rahmsauce, Basilikum-Mandel-Pesto, Tomaten-Sugo",
-   "name_en": "Fresh organic Pasta mushroom s a la creme, pork ragout Korma with yoghurt and Koriander, Chili sin Carne, chicken breast strips in mushroom cream sauce , basil almond Pesto, tomato Sugo",
+   "name_de": "Frische Bio Pasta Rucola-Mandel-Pesto, Chili con carne, Chili sin Carne, Hähnchenbruststreifen in Champignon-Rahmsauce, Kürbiscremesauce, Tomaten-Sugo",
+   "name_en": "Fresh organic Pasta Rucola almond Pesto, Chili con carne, Chili sin Carne, chicken breast strips in mushroom cream sauce , pumpkin cremesauce, tomato Sugo",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -153,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Tofugulasch \"Korma\" Reis",
-   "name_en": "Tofu goulash Korma rice",
+   "name_de": "Tortellini \"Melanzane\" an Chili-Kürbisragout",
+   "name_en": "Tortellini Melanzane an Chili pumpkin ragout",
    "category": "Pan",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
    "note": "Rough estimate"
   }
  ]

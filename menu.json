@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 12 Oct 2026",
+ "date": "Tue 13 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,38 +13,28 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Salami\"",
-   "name_en": "Pizza Salami",
-   "category": "Special",
-   "kcal": 800,
-   "protein": 32,
-   "carbs": 100,
-   "fat": 28,
+   "name_de": "Sauerkraut-Schupfnudelpfanne mit Kräuterdip",
+   "name_en": "Sauerkraut Schupfnudel pan with herbs dip",
+   "category": "Main",
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blumenkohl-Kartoffel-Curry",
-   "name_en": "Cauliflower potato Curry",
+   "name_de": "Putengeschnetzeltes mit Erbsen und Mango",
+   "name_en": "Putengeschnetzeltes with peas and Mango",
    "category": "Main",
    "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Hähnchenschnitzel mit Paprikarahmsauce",
-   "name_en": "Chicken schnitzel with pepper cream sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat Dressing",
-   "name_en": "Mix leaf salad Dressing",
+   "name_de": "Mix-Blattsalat",
+   "name_en": "Mix leaf salad",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -53,8 +43,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pariser Karotten Sommergemüse, Bohnengemüse",
-   "name_en": "Pariser carrots Sommer vegetables , beans vegetables",
+   "name_de": "Sommergemüse Möhren, Blumenkohlgemüse",
+   "name_en": "Sommer vegetables carrots , cauliflower vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Herzoginkartoffeln Potato Wedges",
-   "name_en": "Herzogin potatoes Potato Wedges",
+   "name_de": "Kartoffelkroketten Herzoginkartoffeln",
+   "name_en": "Potato kroketten Herzogin potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Basmatireis Bio Nudeln",
-   "name_en": "Basmati rice organic noodles",
+   "name_de": "Bio Spätzle Vollkornreis, Bio Nudeln",
+   "name_en": "Organic spaetzle whole grain rice , organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schokopudding",
-   "name_en": "Schokopudding",
+   "name_de": "Kirschjoghurt Schokopudding",
+   "name_en": "Kirsch yoghurt Schokopudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelsuppe mit Minze und roten Linsen",
-   "name_en": "Potato soup with Minze and roten lentils",
+   "name_de": "Tomatensuppe mit Reisnudeln",
+   "name_en": "Tomato soup with rice noodles",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Rucola-Mandel-Pesto, Chili con carne, Chili sin Carne, Hähnchenbruststreifen in Champignon-Rahmsauce, Kürbiscremesauce, Tomaten-Sugo",
-   "name_en": "Fresh organic Pasta Rucola almond Pesto, Chili con carne, Chili sin Carne, chicken breast strips in mushroom cream sauce , pumpkin cremesauce, tomato Sugo",
+   "name_de": "Frische Bio Dinkel-Pasta Rinderhackfleischsauce \"Bolognese Art\", Champignons a la creme, Carbonara, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Dinkel Pasta minced beef sauce Bolognese style, mushroom s a la creme, Carbonara, chicken breast strips in grüne pepper cream sauce , tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -123,13 +113,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Tortellini \"Melanzane\" an Chili-Kürbisragout",
-   "name_en": "Tortellini Melanzane an Chili pumpkin ragout",
+   "name_de": "Vegetarischer Kesselskuchen\"Himmel & Ääd\" mit Apfelkompott, und Chnakohlsalat",
+   "name_en": "Vegetarischer Kessels cake Himmel & Ääd with Apfelkompott, and Chnakohl salad",
    "category": "Pan",
-   "kcal": 700,
-   "protein": 26,
-   "carbs": 95,
-   "fat": 24,
+   "kcal": 350,
+   "protein": 12,
+   "carbs": 25,
+   "fat": 22,
    "note": "Rough estimate"
   }
  ]

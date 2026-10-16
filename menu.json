@@ -1,40 +1,40 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 15 Oct 2026",
+ "date": "Fri 16 Oct 2026",
  "items": [
   {
-   "name_de": "Kürbis Gnocchi mit Tomaten-Basilikumsauce",
-   "name_en": "Pumpkin Gnocchi with tomato basil sauce",
-   "category": "Main",
-   "kcal": 650,
-   "protein": 16,
-   "carbs": 105,
-   "fat": 16,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Rheinischer Sauerbratengulasch",
-   "name_en": "Rheinischer Sauerbraten goulash",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
+   "name_de": "Pizza \"Verdure\" Vegan",
+   "name_en": "Pizza Verdure Vegan",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
    "fat": 28,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Chili sin carne",
-   "name_en": "Chili sin carne",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "name_de": "Pizza \"Margherita\"",
+   "name_en": "Pizza Margherita",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Red Thai-Geschnetzeltes mit Schweinefleisch",
-   "name_en": "Red Thai Geschnetzeltes with pork fleisch",
+   "name_de": "Naturreis-Pfanne \"Athen\" mit vegane Tzatziki",
+   "name_en": "Brown rice pan Athen with vegane Tzatziki",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 16,
+   "carbs": 100,
+   "fat": 14,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Paniertes Merlanfilet mit Senf-Kräutersauce",
+   "name_en": "Paniertes Merlanfilet with mustard herbs sauce",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -53,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli natur Kaisergemüse, Apfelrotkohl",
-   "name_en": "Broccoli natur mixed vegetables , Apfel red cabbage",
+   "name_de": "Blattspinat Erbsen-Maisgemüse, Mediterranes Pfannengemüse",
+   "name_en": "Blatt spinach peas corn vegetables , Mediterranes pan n vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +63,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln",
-   "name_en": "Fried potatoes",
+   "name_de": "Potato Wedges",
+   "name_en": "Potato Wedges",
+   "category": "Side",
+   "kcal": 150,
+   "protein": 4,
+   "carbs": 25,
+   "fat": 3,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bio Salzkartoffeln Couscous",
+   "name_en": "Organic Salz potatoes Couscous",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,18 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Seviettenknödel, Kartoffelklöße",
-   "name_en": "Rice Sevietten dumplings , potato dumplings",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Pudding \"Latte Macchiato\" Kirschjoghurt",
-   "name_en": "Pudding Latte Macchiato Kirsch yoghurt",
+   "name_de": "Erdbeerjoghurt",
+   "name_en": "Erdbeer yoghurt",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,13 +103,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Pasta Champignons a la Creme, Gorgonzolasauce, Hackfleischsauce \"Bologneser Art\", Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh Pasta mushroom s a la Creme, Gorgonzolasauce, minced meat sauce Bologneser style, Tofucurry Sumatra, tomato Sugo, basil Pesto",
-   "category": "Buffet",
-   "kcal": 150,
-   "protein": 5,
-   "carbs": 12,
-   "fat": 9,
+   "name_de": "Süßes Schmankerl Milchreis",
+   "name_en": "Süßes Schmankerl Milchreis",
+   "category": "Soup",
+   "kcal": 230,
+   "protein": 7,
+   "carbs": 32,
+   "fat": 7,
    "note": "Rough estimate"
   },
   {
@@ -123,8 +123,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta an Hähnchenbruststreifen mit frischen Champignons",
-   "name_en": "Fresh organic Pasta an chicken breast strips with fresh n mushroom s",
+   "name_de": "Pasta mit Pute in fruchtiger Chili-Frischkäsesauce",
+   "name_en": "Pasta with turkey in fruchtiger Chili Frischkäsesauce",
    "category": "Pan",
    "kcal": 700,
    "protein": 26,

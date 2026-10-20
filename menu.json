@@ -1,7 +1,47 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 19 Oct 2026",
+ "date": "Tue 20 Oct 2026",
  "items": [
+  {
+   "name_de": "Pizza \"Pollo\"",
+   "name_en": "Pizza Pollo",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Pizza \"Margherita\"",
+   "name_en": "Pizza Margherita",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Rote Bete Gnocchi mit Kohlrabisauce",
+   "name_en": "Rote Bete Gnocchi with Kohlrabisauce",
+   "category": "Main",
+   "kcal": 650,
+   "protein": 16,
+   "carbs": 105,
+   "fat": 16,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Hähnchen \"Tikka Masala\"",
+   "name_en": "Chicken Tikka Masala",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
+   "note": "Rough estimate"
+  },
   {
    "name_de": "Rosenkohl-Senf-Frikassee",
    "name_en": "Rosenkohl mustard Frikassee",
@@ -13,28 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schweineschnitzel mit Champignonsauce",
-   "name_en": "Pork schnitzel with mushroom sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Naturreis-Pfanne \"Athen\" mit vegane Tzatziki",
-   "name_en": "Brown rice pan Athen with vegane Tzatziki",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 16,
-   "carbs": 100,
-   "fat": 14,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat Dressing",
-   "name_en": "Mix leaf salad Dressing",
+   "name_de": "Mix-Blattsalat",
+   "name_en": "Mix leaf salad",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -43,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fingermöhren Blumenkohlgemüse",
-   "name_en": "Finger carrots cauliflower vegetables",
+   "name_de": "Balkangemüse Gemüse \"Tricolora\", Broccoli",
+   "name_en": "Balkan vegetables vegetables Tricolora, Broccoli",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -53,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten",
-   "name_en": "Potato kroketten",
+   "name_de": "Potato Wedges Kartoffelkroketten",
+   "name_en": "Potato Wedges potato kroketten",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -63,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Schnittlauchkartoffeln Bio Spätzle, Bulgur",
-   "name_en": "Organic Schnittlauch potatoes organic spaetzle , Bulgur",
+   "name_de": "Basmatireis Bulgur, Bio Nudeln, Reisnudeln",
+   "name_en": "Basmati rice Bulgur, organic noodles , rice noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Milchreis",
-   "name_en": "Milchreis",
+   "name_de": "Fruchtquark \"Pfirsich-Maracuja\"",
+   "name_en": "Fruchtquark Pfirsich Maracuja",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -83,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Mexikanischer Bohneneintopf",
-   "name_en": "Mexikanischer beans stew",
+   "name_de": "Kartoffel -Steckrüben -Eintopf",
+   "name_en": "Potato Steckrüben stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -100,6 +120,26 @@
    "protein": 5,
    "carbs": 12,
    "fat": 9,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Frische Bio Hartweizen-Pasta Tofucurry \"Sumatra\", Mapo Tofu vegan, Rinderhackfleischsauce \"Bolognese Art\", Frische Bio Dinkel-Pasta, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Hartweizen Pasta Tofucurry Sumatra, Mapo Tofu vegan, minced beef sauce Bolognese style, fresh organic Dinkel Pasta, tomato Sugo, basil Pesto",
+   "category": "Buffet",
+   "kcal": 150,
+   "protein": 5,
+   "carbs": 12,
+   "fat": 9,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Plant Chikn Nuggets mit Apfel-Zitronendip, Pommes frites",
+   "name_en": "Plant Chikn Nuggets with Apfel lemon dip, fries frites",
+   "category": "Pan",
+   "kcal": 560,
+   "protein": 12,
+   "carbs": 80,
+   "fat": 20,
    "note": "Rough estimate"
   }
  ]

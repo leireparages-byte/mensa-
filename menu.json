@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Wed 21 Oct 2026",
+ "date": "Thu 22 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza Tomate Mozzarella",
-   "name_en": "Pizza tomato Mozzarella",
+   "name_de": "Pizza \"Kürbis-Jalapeno\",",
+   "name_en": "Pizza pumpkin Jalapeno,",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,13 +23,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Plant Chikn Nuggets mit Apfel-Zitronendip, Pommes frites",
-   "name_en": "Plant Chikn Nuggets with Apfel lemon dip, fries frites",
+   "name_de": "Plant Chikn Nuggets mit vegetarischen Aprikosen-Schmanddip, Pommes frites",
+   "name_en": "Plant Chikn Nuggets with vegetarischen Aprikosen Schmanddip, fries frites",
    "category": "Special",
    "kcal": 560,
    "protein": 12,
    "carbs": 80,
    "fat": 20,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bami Goreng mit Sojasauce-Süß-Sauer",
+   "name_en": "Bami Goreng with Sojasauce sweet & sour",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Putengeschnetzeltes mit Champignons",
+   "name_en": "Putengeschnetzeltes with mushroom s",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -43,36 +63,6 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Mettenden auf Grünkohl",
-   "name_en": "Mettenden on Grünkohl",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Rosenkohl-Senf-Frikassee",
-   "name_en": "Rosenkohl mustard Frikassee",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Hähnchen \"Tikka Masala\"",
-   "name_en": "Chicken Tikka Masala",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
-   "note": "Rough estimate"
-  },
-  {
    "name_de": "Mix-Blattsalat",
    "name_en": "Mix leaf salad",
    "category": "Side",
@@ -83,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Apfelrotkohl Kaisergemüse",
-   "name_en": "Apfel red cabbage mixed vegetables",
+   "name_de": "Rahmwirsing Couscous Gemüsemischung, Grünkohlgemüse mit Speck",
+   "name_en": "Rahmwirsing Couscous vegetables mischung, Grünkohl vegetables with bacon",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -93,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Kartoffelpüree, Bulgur, Gourmet-Gerste: Urkorn aus Deutschland",
-   "name_en": "Rice potato mash , Bulgur, Gourmet Gerste: Urkorn aus Deutschland",
+   "name_de": "Herzoginkartoffeln",
+   "name_en": "Herzogin potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -103,18 +93,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Rote Bete Gnocchi",
-   "name_en": "Rote Bete Gnocchi",
+   "name_de": "Bio Spätzle Reis, Bio Fusilli Nudeln",
+   "name_en": "Organic spaetzle rice, organic Fusilli noodles",
    "category": "Side",
-   "kcal": 150,
-   "protein": 4,
-   "carbs": 25,
-   "fat": 3,
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark \"Pfirsich-Maracuja\"",
-   "name_en": "Fruchtquark Pfirsich Maracuja",
+   "name_de": "Nussnougatpudding",
+   "name_en": "Nussnougatpudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -123,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kürbissuppe",
-   "name_en": "Pumpkin soup",
+   "name_de": "Gemüseeintopf mit Rote Bete",
+   "name_en": "Vegetables stew with Rote Bete",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -133,8 +123,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Hartweizen-Pasta Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Tofucurry \"Sumatra\", Rinderhackfleischsauce \"Bolognese Art\", Frische Bio Dinkel-Pasta, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Hartweizen Pasta chicken breast strips in grüne pepper cream sauce , Tofucurry Sumatra, minced beef sauce Bolognese style, fresh organic Dinkel Pasta, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Hartweizen-Pasta Hähnchen \"Teriaky\", Sojahacksauce \"Bolognese Art\", Carbonara, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Hartweizen Pasta chicken Teriaky, Sojahacksauce Bolognese style, Carbonara, Tofucurry Sumatra, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -153,13 +143,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Hähnchen-Nuggets mit \"Scharfer-Aprikosendip\" und, Pommes-frites",
-   "name_en": "Chicken Nuggets with Scharfer Aprikosendip and, fries frites",
+   "name_de": "Gyros mit Tzatziki und Pommes frites",
+   "name_en": "Gyros with Tzatziki and fries frites",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
+   "kcal": 560,
+   "protein": 12,
+   "carbs": 80,
+   "fat": 20,
    "note": "Rough estimate"
   }
  ]

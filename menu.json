@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Fri 23 Oct 2026",
+ "date": "Mon 26 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -123,8 +123,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßes Schmankerl Germknödel mit Vanillesauce",
-   "name_en": "Süßes Schmankerl Germ dumplings with Vanillesauce",
+   "name_de": "Süßes Schmankerl Pfannkuchen mit Quarkfüllung und Vanillesauce,",
+   "name_en": "Süßes Schmankerl pancakes with Quarkfüllung and Vanillesauce,",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,

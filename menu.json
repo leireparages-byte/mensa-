@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 26 Oct 2026",
+ "date": "Tue 27 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,53 +13,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Salami\"",
-   "name_en": "Pizza Salami",
-   "category": "Special",
-   "kcal": 800,
-   "protein": 32,
-   "carbs": 100,
-   "fat": 28,
+   "name_de": "Scharfe Linsen-Bolo auf Bio Dinkel Fussili",
+   "name_en": "Scharfe lentils Bolo on organic Dinkel Fussili",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   },
   {
-   "name_de": "\"Tocanita\" Bohnengulasch nach rumänischer Art",
-   "name_en": "Tocanita beans goulash nach rumänischer style",
+   "name_de": "Bratwurst mit Senf-Kümmelsauce",
+   "name_en": "Brat sausage with mustard Kümmelsauce",
    "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Alaska Seelachsfilet mit Zucchini-Dillsauce",
-   "name_en": "Alaska pollock filet with Zucchini Dillsauce",
-   "category": "Main",
-   "kcal": 580,
-   "protein": 36,
+   "kcal": 700,
+   "protein": 24,
    "carbs": 55,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Gyros vom",
-   "name_en": "Gyros from the",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Bami Goreng mit Sojasauce-Süß-Sauer (VEGAN)",
-   "name_en": "Bami Goreng with Sojasauce sweet & sour (VEGAN)",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
+   "fat": 42,
    "note": "Rough estimate"
   },
   {
@@ -73,8 +43,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blattspinat Grünkohlgemüse mit Speck, Rahmwirsing, Leipziger Allerlei",
-   "name_en": "Blatt spinach Grünkohl vegetables with bacon , Rahmwirsing, Leipziger Allerlei",
+   "name_de": "Sauerkraut Balkangemüse",
+   "name_en": "Sauerkraut Balkan vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -83,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln Pommes-frites",
-   "name_en": "Fried potatoes fries frites",
+   "name_de": "Pommes-frites",
+   "name_en": "Fries frites",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Reis, Couscous",
-   "name_en": "Organic Salz potatoes rice, Couscous",
+   "name_de": "Kartoffelpüree Semmelknödel",
+   "name_en": "Potato mash Semmel dumplings",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -103,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Heidelbeerquark Nussnougatpudding",
-   "name_en": "Heidelbeerquark Nussnougatpudding",
+   "name_de": "Heidelbeerquark",
+   "name_en": "Heidelbeerquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -113,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Gemüseeintopf mit Rote Bete",
-   "name_en": "Vegetables stew with Rote Bete",
+   "name_de": "Erbseneintopf Weiße-Bohneneintopf",
+   "name_en": "Peas stew Weiße beans stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -123,18 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßes Schmankerl Pfannkuchen mit Quarkfüllung und Vanillesauce,",
-   "name_en": "Süßes Schmankerl pancakes with Quarkfüllung and Vanillesauce,",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
-   "fat": 7,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Frische Bio Hartweizen-Pasta Chili con carne, Gorgonzolasauce, Kürbissauce, Hähnchen \"Teriaky\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Hartweizen Pasta Chili con carne, Gorgonzolasauce, pumpkin sauce, chicken Teriaky, tomato Sugo, basil Pesto",
+   "name_de": "Frische Pasta Carbonara, Sojabolognese, Tofucurry \"Sumatra\", Gorgonzolasauce, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh Pasta Carbonara, Sojabolognese, Tofucurry Sumatra, Gorgonzolasauce, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -150,16 +110,6 @@
    "protein": 5,
    "carbs": 12,
    "fat": 9,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Chili sin carne mit Eiweiß-Fladenbrot",
-   "name_en": "Chili sin carne with Eiweiß Fladenbrot",
-   "category": "Pan",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
    "note": "Rough estimate"
   }
  ]

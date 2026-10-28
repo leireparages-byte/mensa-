@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 27 Oct 2026",
+ "date": "Wed 28 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,23 +13,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Scharfe Linsen-Bolo auf Bio Dinkel Fussili",
-   "name_en": "Scharfe lentils Bolo on organic Dinkel Fussili",
+   "name_de": "Pizza mit Ananas und Putenbrust",
+   "name_en": "Pizza with Ananas and turkey breast",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Gemüsemaultaschen mit Veloute",
+   "name_en": "Vegetables maultaschen with Veloute",
    "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
+   "kcal": 540,
+   "protein": 18,
+   "carbs": 75,
    "fat": 16,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratwurst mit Senf-Kümmelsauce",
-   "name_en": "Brat sausage with mustard Kümmelsauce",
+   "name_de": "Gebackene Zwiebel-Hähnchenbrust in Rahmsauce",
+   "name_en": "Baked onion chicken breast in cream sauce",
    "category": "Main",
-   "kcal": 700,
-   "protein": 24,
-   "carbs": 55,
-   "fat": 42,
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -43,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sauerkraut Balkangemüse",
-   "name_en": "Sauerkraut Balkan vegetables",
+   "name_de": "Sommergemüse Wirsinggemüse",
+   "name_en": "Sommer vegetables Wirsing vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes-frites",
-   "name_en": "Fries frites",
+   "name_de": "Herzoginkartoffeln",
+   "name_en": "Herzogin potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelpüree Semmelknödel",
-   "name_en": "Potato mash Semmel dumplings",
+   "name_de": "Reis Kartoffelpüree, Semmelknödel, Bio Salzkartoffeln",
+   "name_en": "Rice potato mash , Semmel dumplings , organic Salz potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Heidelbeerquark",
-   "name_en": "Heidelbeerquark",
+   "name_de": "Mandarinenquark",
+   "name_en": "Mandarinenquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Erbseneintopf Weiße-Bohneneintopf",
-   "name_en": "Peas stew Weiße beans stew",
+   "name_de": "Kartoffel-Laucheintopf",
+   "name_en": "Potato Lauch stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Pasta Carbonara, Sojabolognese, Tofucurry \"Sumatra\", Gorgonzolasauce, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh Pasta Carbonara, Sojabolognese, Tofucurry Sumatra, Gorgonzolasauce, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Rinderhackfleischsauce \"Bolognese Art\", Champignons a la creme, Tofucurry \"Sumatra\", Carbonara, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta minced beef sauce Bolognese style, mushroom s a la creme, Tofucurry Sumatra, Carbonara, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,

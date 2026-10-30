@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 29 Oct 2026",
+ "date": "Fri 30 Oct 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,23 +13,53 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Knusperschnitte mit Erdnusssauce",
-   "name_en": "Knusperschnitte with peanut sauce",
+   "name_de": "Pizza \"Salami\"",
+   "name_en": "Pizza Salami",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Steckrüben-Karotten-Soja Chili",
+   "name_en": "Steckrüben carrots soy Chili",
    "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Backfisch mit Sauce Tartare",
+   "name_en": "Back fish with Sauce Tartare",
+   "category": "Main",
+   "kcal": 580,
+   "protein": 36,
+   "carbs": 55,
    "fat": 22,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Putengulasch \"Gärtnerin\"",
-   "name_en": "Puten goulash Gärtnerin",
+   "name_de": "Sellerieschnitzel an Asia-Gemüsesauce",
+   "name_en": "Sellerieschnitzel an Asia vegetables sauce",
    "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Putenfrikassee",
+   "name_en": "Putenfrikassee",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -43,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli Erbsen-Maisgemüse",
-   "name_en": "Broccoli peas corn vegetables",
+   "name_de": "Blattspinat Erbsen-Maisgemüse, Wirsinggemüse, Kaisergemüse",
+   "name_en": "Blatt spinach peas corn vegetables , Wirsing vegetables , mixed vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -53,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln",
-   "name_en": "Fried potatoes",
+   "name_de": "Pommes frites Risolee",
+   "name_en": "Fries frites Risolee",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -63,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Bio Nudeln",
-   "name_en": "Rice organic noodles",
+   "name_de": "Bio Salzkartoffeln Reis",
+   "name_en": "Organic Salz potatoes rice",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schokopudding",
-   "name_en": "Schokopudding",
+   "name_de": "Mandarinenquark Erdbeerquark",
+   "name_en": "Mandarinenquark Erdbeerquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -83,18 +113,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Grünkohleintopf",
-   "name_en": "Grünkohl stew",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
+   "name_de": "Süßes Schmankerl Apfelpfannkuchen mit Vanillesauce",
+   "name_en": "Süßes Schmankerl Apfel pancakes with Vanillesauce",
+   "category": "Dessert",
+   "kcal": 220,
+   "protein": 6,
+   "carbs": 34,
    "fat": 7,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Pasta Hähnchen in grüne Pfeffer-Rahmsauce, Soja-Ragout, Tofucurry \"Sumatra\", Gorgonzolasauce, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh Pasta chicken in grüne pepper cream sauce , soy Ragout, Tofucurry Sumatra, Gorgonzolasauce, tomato Sugo, basil Pesto",
+   "name_de": "Aus betrieblichen Gründen leider geschlossen!",
+   "name_en": "Aus betrieblichen Gründen leider geschlossen!",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -110,6 +140,16 @@
    "protein": 5,
    "carbs": 12,
    "fat": 9,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Frische Pasta mit Kürbis-Frischkäsesauce, Walnüssen und Bacon",
+   "name_en": "Fresh Pasta with pumpkin Frischkäsesauce, Walnüssen and Bacon",
+   "category": "Pan",
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
    "note": "Rough estimate"
   }
  ]

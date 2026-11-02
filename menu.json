@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Fri 30 Oct 2026",
+ "date": "Mon 02 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Salami\"",
-   "name_en": "Pizza Salami",
+   "name_de": "Pizza \"Gorgonzola\"",
+   "name_en": "Pizza Gorgonzola",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,8 +23,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Steckrüben-Karotten-Soja Chili",
-   "name_en": "Steckrüben carrots soy Chili",
+   "name_de": "Chili sin Carne",
+   "name_en": "Chili sin Carne",
    "category": "Main",
    "kcal": 620,
    "protein": 22,
@@ -33,38 +33,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Backfisch mit Sauce Tartare",
-   "name_en": "Back fish with Sauce Tartare",
+   "name_de": "Spaghetti \"Carbonara Art\"",
+   "name_en": "Spaghetti Carbonara style",
    "category": "Main",
-   "kcal": 580,
-   "protein": 36,
-   "carbs": 55,
-   "fat": 22,
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sellerieschnitzel an Asia-Gemüsesauce",
-   "name_en": "Sellerieschnitzel an Asia vegetables sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Putenfrikassee",
-   "name_en": "Putenfrikassee",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat",
-   "name_en": "Mix leaf salad",
+   "name_de": "Mix-Blattsalat Dressing",
+   "name_en": "Mix leaf salad Dressing",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -73,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blattspinat Erbsen-Maisgemüse, Wirsinggemüse, Kaisergemüse",
-   "name_en": "Blatt spinach peas corn vegetables , Wirsing vegetables , mixed vegetables",
+   "name_de": "Pariser Karotten Kohlrabigemüse",
+   "name_en": "Pariser carrots Kohlrabi vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -83,8 +63,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes frites Risolee",
-   "name_en": "Fries frites Risolee",
+   "name_de": "Potato Wedges",
+   "name_en": "Potato Wedges",
+   "category": "Side",
+   "kcal": 150,
+   "protein": 4,
+   "carbs": 25,
+   "fat": 3,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bio Nudeln Basmatireis",
+   "name_en": "Organic noodles basmati rice",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,18 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Reis",
-   "name_en": "Organic Salz potatoes rice",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mandarinenquark Erdbeerquark",
-   "name_en": "Mandarinenquark Erdbeerquark",
+   "name_de": "Latte Macchiatopudding",
+   "name_en": "Latte Macchiatopudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -113,18 +93,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßes Schmankerl Apfelpfannkuchen mit Vanillesauce",
-   "name_en": "Süßes Schmankerl Apfel pancakes with Vanillesauce",
-   "category": "Dessert",
-   "kcal": 220,
-   "protein": 6,
-   "carbs": 34,
+   "name_de": "Pichelsteiner Topf",
+   "name_en": "Pichelsteiner Topf",
+   "category": "Soup",
+   "kcal": 230,
+   "protein": 7,
+   "carbs": 32,
    "fat": 7,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Aus betrieblichen Gründen leider geschlossen!",
-   "name_en": "Aus betrieblichen Gründen leider geschlossen!",
+   "name_de": "Frische Bio Pasta Sojahacksauce \"Bolognese Art\", Kürbissauce mit Speck, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Sojahacksauce Bolognese style, pumpkin sauce with bacon , chicken breast strips in grüne pepper cream sauce , Tofucurry Sumatra, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -143,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Pasta mit Kürbis-Frischkäsesauce, Walnüssen und Bacon",
-   "name_en": "Fresh Pasta with pumpkin Frischkäsesauce, Walnüssen and Bacon",
+   "name_de": "Currywurst mit Röstkartoffeln",
+   "name_en": "Curry sausage with Röst potatoes",
    "category": "Pan",
-   "kcal": 700,
+   "kcal": 780,
    "protein": 26,
-   "carbs": 95,
-   "fat": 24,
+   "carbs": 70,
+   "fat": 44,
    "note": "Rough estimate"
   }
  ]

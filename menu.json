@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 02 Nov 2026",
+ "date": "Tue 03 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Gorgonzola\"",
-   "name_en": "Pizza Gorgonzola",
+   "name_de": "Pizza \"Peperoni\"",
+   "name_en": "Pizza Peperoni",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,28 +23,28 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Chili sin Carne",
-   "name_en": "Chili sin Carne",
+   "name_de": "Tagliatelle mit Mandel-Zitronensauce und Rucola",
+   "name_en": "Tagliatelle with almond lemon sauce and Rucola",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Hähnchenschenkel \"Steak\" an Cranberry-Schmorzwiebeln",
+   "name_en": "Chicken schenkel Steak an Cranberry Schmor onions",
    "category": "Main",
    "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Spaghetti \"Carbonara Art\"",
-   "name_en": "Spaghetti Carbonara style",
-   "category": "Main",
-   "kcal": 700,
-   "protein": 26,
-   "carbs": 95,
-   "fat": 24,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat Dressing",
-   "name_en": "Mix leaf salad Dressing",
+   "name_de": "Mix-Blattsalat",
+   "name_en": "Mix leaf salad",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -53,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pariser Karotten Kohlrabigemüse",
-   "name_en": "Pariser carrots Kohlrabi vegetables",
+   "name_de": "Broccoli Kohlrabigemüse, Blumenkohlgemüse",
+   "name_en": "Broccoli Kohlrabi vegetables , cauliflower vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,18 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Potato Wedges",
-   "name_en": "Potato Wedges",
-   "category": "Side",
-   "kcal": 150,
-   "protein": 4,
-   "carbs": 25,
-   "fat": 3,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Bio Nudeln Basmatireis",
-   "name_en": "Organic noodles basmati rice",
+   "name_de": "Herzoginkartoffeln",
+   "name_en": "Herzogin potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +73,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Latte Macchiatopudding",
-   "name_en": "Latte Macchiatopudding",
+   "name_de": "Vollkornreis Bio Nudeln",
+   "name_en": "Whole grain rice organic noodles",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Fruchtquark Latte Macchiato Pudding",
+   "name_en": "Fruchtquark Latte Macchiato Pudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pichelsteiner Topf",
-   "name_en": "Pichelsteiner Topf",
+   "name_de": "Linseneintopf wahlweise Pichelsteiner Eintopf",
+   "name_en": "Lentils stew wahlweise Pichelsteiner stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Sojahacksauce \"Bolognese Art\", Kürbissauce mit Speck, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta Sojahacksauce Bolognese style, pumpkin sauce with bacon , chicken breast strips in grüne pepper cream sauce , Tofucurry Sumatra, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Basilikum Pesto, Chili sin carne, Hähnchen \"in Gemüsesauce\", Carbonara Art\", Rinderhackfleischsauce \"Bolognese Art\", Frische Bio Dinkel-Pasta, Champignons a la creme",
+   "name_en": "Fresh organic Pasta basil Pesto, Chili sin carne, chicken in vegetables sauce, Carbonara style, minced beef sauce Bolognese style, fresh organic Dinkel Pasta, mushroom s a la creme",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -123,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Currywurst mit Röstkartoffeln",
-   "name_en": "Curry sausage with Röst potatoes",
+   "name_de": "Seelachs in Bierteig mit Sauce Remoulade Bio Salzkartoffeln",
+   "name_en": "Pollock in Bierteig with Sauce Remoulade organic Salz potatoes",
    "category": "Pan",
-   "kcal": 780,
-   "protein": 26,
-   "carbs": 70,
-   "fat": 44,
+   "kcal": 580,
+   "protein": 36,
+   "carbs": 55,
+   "fat": 22,
    "note": "Rough estimate"
   }
  ]

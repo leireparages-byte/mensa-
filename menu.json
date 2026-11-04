@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 03 Nov 2026",
+ "date": "Wed 04 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Peperoni\"",
-   "name_en": "Pizza Peperoni",
+   "name_de": "Pizza \"Pute-Kürbis\"",
+   "name_en": "Pizza turkey pumpkin",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,8 +23,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Tagliatelle mit Mandel-Zitronensauce und Rucola",
-   "name_en": "Tagliatelle with almond lemon sauce and Rucola",
+   "name_de": "Spinat-Linsen-Curry",
+   "name_en": "Spinach lentils Curry",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Lammhacksteaks auf Letscho \"Ungarische Art\"",
+   "name_en": "Lammhacksteaks on Letscho Ungarische style",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -33,13 +43,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Hähnchenschenkel \"Steak\" an Cranberry-Schmorzwiebeln",
-   "name_en": "Chicken schenkel Steak an Cranberry Schmor onions",
+   "name_de": "Chili sin Carne",
+   "name_en": "Chili sin Carne",
    "category": "Main",
    "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   },
   {
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli Kohlrabigemüse, Blumenkohlgemüse",
-   "name_en": "Broccoli Kohlrabi vegetables , cauliflower vegetables",
+   "name_de": "Kaisergemüse Zucchinigemüse",
+   "name_en": "Mixed vegetables Zucchini vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Herzoginkartoffeln",
-   "name_en": "Herzogin potatoes",
+   "name_de": "Pommes-frites",
+   "name_en": "Fries frites",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Vollkornreis Bio Nudeln",
-   "name_en": "Whole grain rice organic noodles",
+   "name_de": "Reis Bulgur",
+   "name_en": "Rice Bulgur",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark Latte Macchiato Pudding",
-   "name_en": "Fruchtquark Latte Macchiato Pudding",
+   "name_de": "Erdbeerjoghurt Mandarinenquark",
+   "name_en": "Erdbeer yoghurt Mandarinenquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Linseneintopf wahlweise Pichelsteiner Eintopf",
-   "name_en": "Lentils stew wahlweise Pichelsteiner stew",
+   "name_de": "Broccoli-Kartoffeleintopf",
+   "name_en": "Broccoli potato stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Basilikum Pesto, Chili sin carne, Hähnchen \"in Gemüsesauce\", Carbonara Art\", Rinderhackfleischsauce \"Bolognese Art\", Frische Bio Dinkel-Pasta, Champignons a la creme",
-   "name_en": "Fresh organic Pasta basil Pesto, Chili sin carne, chicken in vegetables sauce, Carbonara style, minced beef sauce Bolognese style, fresh organic Dinkel Pasta, mushroom s a la creme",
+   "name_de": "Frische Bio Pasta Mandel-Zitronensauce, Tomaten-Sugo, Basilikum Pesto, Chili sin carne, Hähnchen \"in Gemüsesauce\", Rinderhackfleischsauce \"Bolognese Art\"",
+   "name_en": "Fresh organic Pasta almond lemon sauce, tomato Sugo, basil Pesto, Chili sin carne, chicken in vegetables sauce, minced beef sauce Bolognese style",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -120,16 +130,6 @@
    "protein": 5,
    "carbs": 12,
    "fat": 9,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Seelachs in Bierteig mit Sauce Remoulade Bio Salzkartoffeln",
-   "name_en": "Pollock in Bierteig with Sauce Remoulade organic Salz potatoes",
-   "category": "Pan",
-   "kcal": 580,
-   "protein": 36,
-   "carbs": 55,
-   "fat": 22,
    "note": "Rough estimate"
   }
  ]

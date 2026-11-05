@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Wed 04 Nov 2026",
+ "date": "Thu 05 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Pute-Kürbis\"",
-   "name_en": "Pizza turkey pumpkin",
+   "name_de": "Pizza \"Verdure\" Vegan",
+   "name_en": "Pizza Verdure Vegan",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,18 +23,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Spinat-Linsen-Curry",
-   "name_en": "Spinach lentils Curry",
+   "name_de": "\"Lieblingsschnitzel\" aus Weizen mit Lauchsauce",
+   "name_en": "Lieblingsschnitzel aus Weizen with Lauchsauce",
    "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Lammhacksteaks auf Letscho \"Ungarische Art\"",
-   "name_en": "Lammhacksteaks on Letscho Ungarische style",
+   "name_de": "Rinderhackröllchen \"Toskana\"",
+   "name_en": "Minced beef röllchen Toskana",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -43,8 +43,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Chili sin Carne",
-   "name_en": "Chili sin Carne",
+   "name_de": "Spinat-Linsen-Curry",
+   "name_en": "Spinach lentils Curry",
    "category": "Main",
    "kcal": 620,
    "protein": 22,
@@ -63,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kaisergemüse Zucchinigemüse",
-   "name_en": "Mixed vegetables Zucchini vegetables",
+   "name_de": "Erbsen fein mit Kräutern Kaisergemüse, Zucchinigemüse, Apfelrotkohl",
+   "name_en": "Peas fein with herbs n mixed vegetables , Zucchini vegetables , Apfel red cabbage",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes-frites",
-   "name_en": "Fries frites",
+   "name_de": "Pommes frites Risolee",
+   "name_en": "Fries frites Risolee",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Bulgur",
-   "name_en": "Rice Bulgur",
+   "name_de": "Kartoffelklöße Bulgur, Bio Nudeln",
+   "name_en": "Potato dumplings Bulgur, organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Erdbeerjoghurt Mandarinenquark",
-   "name_en": "Erdbeer yoghurt Mandarinenquark",
+   "name_de": "Erdbeerjoghurt",
+   "name_en": "Erdbeer yoghurt",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli-Kartoffeleintopf",
-   "name_en": "Broccoli potato stew",
+   "name_de": "Polnischer Sauerkrauteintopf",
+   "name_en": "Polnischer Sauerkraut stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -113,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Mandel-Zitronensauce, Tomaten-Sugo, Basilikum Pesto, Chili sin carne, Hähnchen \"in Gemüsesauce\", Rinderhackfleischsauce \"Bolognese Art\"",
-   "name_en": "Fresh organic Pasta almond lemon sauce, tomato Sugo, basil Pesto, Chili sin carne, chicken in vegetables sauce, minced beef sauce Bolognese style",
+   "name_de": "Frische Bio Pasta Hähnchenbruststreifen mit frischen Champignons, Rinderhackfleischsauce \"Bolognese Art\", Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto, Carbonara",
+   "name_en": "Fresh organic Pasta chicken breast strips with fresh n mushroom s, minced beef sauce Bolognese style, Tofucurry Sumatra, tomato Sugo, basil Pesto, Carbonara",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,

@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 05 Nov 2026",
+ "date": "Fri 06 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Verdure\" Vegan",
-   "name_en": "Pizza Verdure Vegan",
+   "name_de": "Pizza \"Hähnchen Döner\"",
+   "name_en": "Pizza chicken doner",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,18 +23,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "\"Lieblingsschnitzel\" aus Weizen mit Lauchsauce",
-   "name_en": "Lieblingsschnitzel aus Weizen with Lauchsauce",
+   "name_de": "Hirse-Karotten-Auflauf mit Sonnenblumenkernen an Dipsauce Mojo rojo",
+   "name_en": "Hirse carrots bake with Sonnenblumenkernen an Dipsauce Mojo rojo",
    "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
+   "kcal": 620,
+   "protein": 20,
+   "carbs": 80,
+   "fat": 24,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Rinderhackröllchen \"Toskana\"",
-   "name_en": "Minced beef röllchen Toskana",
+   "name_de": "Kibbelinge mit Joghurt-Kräuter-Mayonnaise",
+   "name_en": "Kibbelinge with yoghurt herbs Mayonnaise",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -43,13 +43,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Spinat-Linsen-Curry",
-   "name_en": "Spinach lentils Curry",
+   "name_de": "Lieblingsschnitzel Mit Mojo Rojo",
+   "name_en": "Lieblingsschnitzel Mit Mojo Rojo",
    "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Backfisch mit Joghurt Kräuter Mayonnaise",
+   "name_en": "Back fish with yoghurt herbs Mayonnaise",
+   "category": "Main",
+   "kcal": 580,
+   "protein": 36,
+   "carbs": 55,
+   "fat": 22,
    "note": "Rough estimate"
   },
   {
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Erbsen fein mit Kräutern Kaisergemüse, Zucchinigemüse, Apfelrotkohl",
-   "name_en": "Peas fein with herbs n mixed vegetables , Zucchini vegetables , Apfel red cabbage",
+   "name_de": "Blattspinat Rotkohl, Erbsen fein mit Kräutern, Mediterranes Pfannengemüse",
+   "name_en": "Blatt spinach red cabbage , peas fein with herbs n, Mediterranes pan n vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes frites Risolee",
-   "name_en": "Fries frites Risolee",
+   "name_de": "Bratkartoffeln",
+   "name_en": "Fried potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelklöße Bulgur, Bio Nudeln",
-   "name_en": "Potato dumplings Bulgur, organic noodles",
+   "name_de": "Bio Salzkartoffeln Bio Nudeln, Zartweizen",
+   "name_en": "Organic Salz potatoes organic noodles , Zartweizen",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Erdbeerjoghurt",
-   "name_en": "Erdbeer yoghurt",
+   "name_de": "Heidelbeerquark",
+   "name_en": "Heidelbeerquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,18 +113,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Polnischer Sauerkrauteintopf",
-   "name_en": "Polnischer Sauerkraut stew",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
+   "name_de": "Süßes Schmankerl Mandel-Grießbrei mit Pfirsichscheiben",
+   "name_en": "Süßes Schmankerl almond Grießbrei with Pfirsichscheiben",
+   "category": "Dessert",
+   "kcal": 220,
+   "protein": 6,
+   "carbs": 34,
    "fat": 7,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Hähnchenbruststreifen mit frischen Champignons, Rinderhackfleischsauce \"Bolognese Art\", Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto, Carbonara",
-   "name_en": "Fresh organic Pasta chicken breast strips with fresh n mushroom s, minced beef sauce Bolognese style, Tofucurry Sumatra, tomato Sugo, basil Pesto, Carbonara",
+   "name_de": "Frische Bio Pasta Tofucurry \"Sumatra\", Chili con carne, Carbonara, Champignons a la creme, Hähnchenbruststreifen mit Gemüse und Mandeln, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Tofucurry Sumatra, Chili con carne, Carbonara, mushroom s a la creme, chicken breast strips with vegetables and almond n, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,

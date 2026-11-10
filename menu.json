@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 09 Nov 2026",
+ "date": "Tue 10 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,13 +13,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Salami\"",
-   "name_en": "Pizza Salami",
+   "name_de": "Pizza Tomate Mozzarella",
+   "name_en": "Pizza tomato Mozzarella",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
    "carbs": 100,
    "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Spinat Cappelletti mit Kürbissauce",
+   "name_en": "Spinach Cappelletti with pumpkin sauce",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Indisches Hähnchengeschnetzeltes",
+   "name_en": "Indisches chicken geschnetzeltes",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -33,18 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Putenschnitzel mit Apfel-Zwiebelsauce",
-   "name_en": "Putenschnitzel with Apfel onion sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat Dressing",
-   "name_en": "Mix leaf salad Dressing",
+   "name_de": "Mix-Blattsalat",
+   "name_en": "Mix leaf salad",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sommergemüse Sauerkraut, Romano-Bohnengemüse",
-   "name_en": "Sommer vegetables Sauerkraut, Romano beans vegetables",
+   "name_de": "Italienisches Pfannengemüse Fingermöhren",
+   "name_en": "Italienisches pan n vegetables Finger carrots",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,18 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Potato Wedges",
-   "name_en": "Potato Wedges",
-   "category": "Side",
-   "kcal": 150,
-   "protein": 4,
-   "carbs": 25,
-   "fat": 3,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Bio Spätzle Zartweizen, Basmatireis",
-   "name_en": "Organic spaetzle Zartweizen, basmati rice",
+   "name_de": "Runde Kartoffelkroketten Bio Kartoffeln Risolee",
+   "name_en": "Runde potato kroketten organic potatoes Risolee",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +83,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schokopudding",
-   "name_en": "Schokopudding",
+   "name_de": "Vollkornreis Bio Spätzle, Bio Nudeln",
+   "name_en": "Whole grain rice organic spaetzle , organic noodles",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Kirschquark",
+   "name_en": "Kirschquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "\"Bissara\" marokkanischer Dicke-Bohnen-Suppe",
-   "name_en": "Bissara marokkanischer Dicke beans soup",
+   "name_de": "Wirsingeintopf mit Wiesenpilzen",
+   "name_en": "Wirsing stew with Wiesen mushrooms n",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Champignons a la creme, Gorgonzolasauce, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Sojagulasch mit Gemüse, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta mushroom s a la creme, Gorgonzolasauce, chicken breast strips in grüne pepper cream sauce , soy goulash with vegetables , tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Gorgonzolasauce, Rinderhackfleischsauce \"Bolognese Art\", Sojagulasch mit Gemüse, Champignons a la creme, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Gorgonzolasauce, minced beef sauce Bolognese style, soy goulash with vegetables , mushroom s a la creme, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,

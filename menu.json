@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 10 Nov 2026",
+ "date": "Wed 11 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza Tomate Mozzarella",
-   "name_en": "Pizza tomato Mozzarella",
+   "name_de": "Pizza \"Lahmacun\"",
+   "name_en": "Pizza Lahmacun",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,33 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Spinat Cappelletti mit Kürbissauce",
-   "name_en": "Spinach Cappelletti with pumpkin sauce",
+   "name_de": "Wintergemüse-Ragout auf Kartoffel-Pastinakenstampf",
+   "name_en": "Winter vegetables Ragout on potato Pastinakenstampf",
    "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
+   "kcal": 560,
+   "protein": 12,
+   "carbs": 80,
+   "fat": 20,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Indisches Hähnchengeschnetzeltes",
-   "name_en": "Indisches chicken geschnetzeltes",
+   "name_de": "\"Kötbullar\" an Preiselbeer-Rahmsauce",
+   "name_en": "Kötbullar an Preiselbeer cream sauce",
    "category": "Main",
    "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Kürbis-Mango-Curry mit Kichererbsen",
-   "name_en": "Pumpkin Mango Curry with chickpeas",
-   "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "protein": 16,
+   "carbs": 100,
+   "fat": 14,
    "note": "Rough estimate"
   },
   {
@@ -63,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Italienisches Pfannengemüse Fingermöhren",
-   "name_en": "Italienisches pan n vegetables Finger carrots",
+   "name_de": "Sauerkraut Balkangemüse",
+   "name_en": "Sauerkraut Balkan vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Runde Kartoffelkroketten Bio Kartoffeln Risolee",
-   "name_en": "Runde potato kroketten organic potatoes Risolee",
+   "name_de": "Pommes frites Risolee",
+   "name_en": "Fries frites Risolee",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Vollkornreis Bio Spätzle, Bio Nudeln",
-   "name_en": "Whole grain rice organic spaetzle , organic noodles",
+   "name_de": "Kartoffelpüree Gourmet-Gerste: Urkorn aus Deutschland, Nudeln",
+   "name_en": "Potato mash Gourmet Gerste: Urkorn aus Deutschland, noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kirschquark",
-   "name_en": "Kirschquark",
+   "name_de": "Karamelpudding Kirschquark",
+   "name_en": "Karamelpudding Kirschquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Wirsingeintopf mit Wiesenpilzen",
-   "name_en": "Wirsing stew with Wiesen mushrooms n",
+   "name_de": "Rheinischer Möhreneintopf",
+   "name_en": "Rheinischer carrots stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -113,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Gorgonzolasauce, Rinderhackfleischsauce \"Bolognese Art\", Sojagulasch mit Gemüse, Champignons a la creme, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta Gorgonzolasauce, minced beef sauce Bolognese style, soy goulash with vegetables , mushroom s a la creme, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Champignons a la creme, Rinderhackfleischsauce \"Bolognese Art\", Sojahacksauce \"Bolognese Art\", Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta mushroom s a la creme, minced beef sauce Bolognese style, Sojahacksauce Bolognese style, chicken breast strips with vegetables in cream sauce , tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -130,6 +120,16 @@
    "protein": 5,
    "carbs": 12,
    "fat": 9,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Krakauer mit Currysauce und Pommes frites",
+   "name_en": "Krakauer with Currysauce and fries frites",
+   "category": "Pan",
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   }
  ]

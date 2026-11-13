@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 12 Nov 2026",
+ "date": "Fri 13 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sesam-Karotten-Sticks auf Tomaten-Paprikaragout",
-   "name_en": "Sesam carrots Sticks on tomato pepper ragout",
+   "name_de": "Pizza \"Hähnchen Döner\"",
+   "name_en": "Pizza chicken doner",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Riesenrösti mit Spitzkohl-Bohnenragout",
+   "name_en": "Riesenrösti with pointed cabbage beans ragout",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -23,13 +33,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Chili con carne",
-   "name_en": "Chili con carne",
+   "name_de": "Fischfrikadellen mit Frankfurter grüner Sauce",
+   "name_en": "Fish meatball n with Frankfurter grüner Sauce",
    "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 600,
+   "protein": 38,
+   "carbs": 40,
+   "fat": 28,
    "note": "Rough estimate"
   },
   {
@@ -43,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Broccoli Erbsen-Maisgemüse",
-   "name_en": "Broccoli peas corn vegetables",
+   "name_de": "Blattspinat Rahmwirsing, Broccoli, Leipziger Allerlei",
+   "name_en": "Blatt spinach Rahmwirsing, Broccoli, Leipziger Allerlei",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes-frites",
-   "name_en": "Fries frites",
+   "name_de": "Bratkartoffeln Pommes frites",
+   "name_en": "Fried potatoes fries frites",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Bio Nudeln",
-   "name_en": "Rice organic noodles",
+   "name_de": "Bio Salzkartoffeln Reisnudeln",
+   "name_en": "Organic Salz potatoes rice noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pfirsich-Maracujaquark Karamelpudding",
-   "name_en": "Pfirsich Maracujaquark Karamelpudding",
+   "name_de": "Vanillepudding Pfirsich-Maracujaquark",
+   "name_en": "Vanillepudding Pfirsich Maracujaquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +103,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Pasta Linsen-Bolo mit Zucchini und Ricotta, Tofucurry mit Kicherbsen, Hähnchen in Erdnusssauce, Sojageschnetzeltes \"Mediterrane Art\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh Pasta lentils Bolo with Zucchini and Ricotta, Tofucurry with Kich peas , chicken in peanut sauce, Sojageschnetzeltes Mediterrane style, tomato Sugo, basil Pesto",
+   "name_de": "Süßes Schmankerl Heidelbeerpfannkuchen mit Vanillesauce",
+   "name_en": "Süßes Schmankerl Heidelbeer pancakes with Vanillesauce",
+   "category": "Soup",
+   "kcal": 230,
+   "protein": 7,
+   "carbs": 32,
+   "fat": 7,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Frische Bio Pasta Sojahacksauce \"Bolognese Art\", Champignons a la creme, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Chili con carne, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Sojahacksauce Bolognese style, mushroom s a la creme, chicken breast strips in grüne pepper cream sauce , Chili con carne, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -113,13 +133,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sojagulasch \"Korma\" Couscous",
-   "name_en": "Soy goulash Korma Couscous",
+   "name_de": "\"Feijoada\", Orangenscheibe an Reis",
+   "name_en": "Feijoada, Orangenscheibe an rice",
    "category": "Pan",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
+   "kcal": 620,
+   "protein": 16,
+   "carbs": 100,
+   "fat": 14,
    "note": "Rough estimate"
   }
  ]

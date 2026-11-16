@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Fri 13 Nov 2026",
+ "date": "Mon 16 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Hähnchen Döner\"",
-   "name_en": "Pizza chicken doner",
+   "name_de": "Pizza \"Champignon\"",
+   "name_en": "Pizza mushroom",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,8 +23,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Riesenrösti mit Spitzkohl-Bohnenragout",
-   "name_en": "Riesenrösti with pointed cabbage beans ragout",
+   "name_de": "Schmorkraut-Soja-Topf",
+   "name_en": "Schmorkraut soy Topf",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -33,18 +33,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fischfrikadellen mit Frankfurter grüner Sauce",
-   "name_en": "Fish meatball n with Frankfurter grüner Sauce",
+   "name_de": "Hähnchenschnitzel mit Frankfurter Grüne Sauce",
+   "name_en": "Chicken schnitzel with Frankfurter Grüne Sauce",
    "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Mix-Blattsalat",
-   "name_en": "Mix leaf salad",
+   "name_de": "Mix-Blattsalat Dressing",
+   "name_en": "Mix leaf salad Dressing",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -53,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blattspinat Rahmwirsing, Broccoli, Leipziger Allerlei",
-   "name_en": "Blatt spinach Rahmwirsing, Broccoli, Leipziger Allerlei",
+   "name_de": "Fingermöhren Kohlrabigemüse",
+   "name_en": "Finger carrots Kohlrabi vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,8 +63,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln Pommes frites",
-   "name_en": "Fried potatoes fries frites",
+   "name_de": "Potato Wedges",
+   "name_en": "Potato Wedges",
+   "category": "Side",
+   "kcal": 150,
+   "protein": 4,
+   "carbs": 25,
+   "fat": 3,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bio Salzkartoffeln Vollkornreis",
+   "name_en": "Organic Salz potatoes whole grain rice",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,18 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Reisnudeln",
-   "name_en": "Organic Salz potatoes rice noodles",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Vanillepudding Pfirsich-Maracujaquark",
-   "name_en": "Vanillepudding Pfirsich Maracujaquark",
+   "name_de": "Nussnougatpudding",
+   "name_en": "Nussnougatpudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -93,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßkartoffelcremesuppe mit Kokosmilch",
-   "name_en": "Süß potato creme soup with coconut milch",
+   "name_de": "\"Minestrone\" italienischer Gemüseeintopf",
+   "name_en": "Minestrone italienischer vegetables stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,18 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Süßes Schmankerl Heidelbeerpfannkuchen mit Vanillesauce",
-   "name_en": "Süßes Schmankerl Heidelbeer pancakes with Vanillesauce",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
-   "fat": 7,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Frische Bio Pasta Sojahacksauce \"Bolognese Art\", Champignons a la creme, Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Chili con carne, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta Sojahacksauce Bolognese style, mushroom s a la creme, chicken breast strips in grüne pepper cream sauce , Chili con carne, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Rinderhackfleischsauce \"Bolognese Art\", Chili con carne, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta chicken breast strips in grüne pepper cream sauce , minced beef sauce Bolognese style, Chili con carne, Tofucurry Sumatra, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -133,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "\"Feijoada\", Orangenscheibe an Reis",
-   "name_en": "Feijoada, Orangenscheibe an rice",
+   "name_de": "Healthy Campus Bonn: Linsen-Curry mit Mango-Chili-Dip und Gerste: Urkorn aus Deutschland",
+   "name_en": "Healthy Campus Bonn: lentils Curry with Mango Chili Dip and Gerste: Urkorn aus Deutschland",
    "category": "Pan",
    "kcal": 620,
-   "protein": 16,
-   "carbs": 100,
-   "fat": 14,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   }
  ]

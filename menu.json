@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 16 Nov 2026",
+ "date": "Tue 17 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,13 +13,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Champignon\"",
-   "name_en": "Pizza mushroom",
+   "name_de": "Pizza mit Ananas und Putenstreifen",
+   "name_en": "Pizza with Ananas and Putenstreifen",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
    "carbs": 100,
    "fat": 28,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Penne allarrabiatta",
+   "name_en": "Penne allarrabiatta",
+   "category": "Main",
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "GreenThai-Geschnetzeltes mit Rindfleisch",
+   "name_en": "GreenThai Geschnetzeltes with Rindfleisch",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
    "note": "Rough estimate"
   },
   {
@@ -33,18 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Hähnchenschnitzel mit Frankfurter Grüne Sauce",
-   "name_en": "Chicken schnitzel with Frankfurter Grüne Sauce",
-   "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat Dressing",
-   "name_en": "Mix leaf salad Dressing",
+   "name_de": "Mix-Blattsalat",
+   "name_en": "Mix leaf salad",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fingermöhren Kohlrabigemüse",
-   "name_en": "Finger carrots Kohlrabi vegetables",
+   "name_de": "Apfelrotkohl Kohlrabigemüse, Leipziger Allerlei",
+   "name_en": "Apfel red cabbage Kohlrabi vegetables , Leipziger Allerlei",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,18 +73,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Potato Wedges",
-   "name_en": "Potato Wedges",
+   "name_de": "Runde Kartoffelkroketten",
+   "name_en": "Runde potato kroketten",
    "category": "Side",
-   "kcal": 150,
-   "protein": 4,
-   "carbs": 25,
-   "fat": 3,
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Vollkornreis",
-   "name_en": "Organic Salz potatoes whole grain rice",
+   "name_de": "Basmatireis Gourmet-Gerste: Urkorn aus Deutschland, Kartoffelklöße",
+   "name_en": "Basmati rice Gourmet Gerste: Urkorn aus Deutschland, potato dumplings",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "\"Minestrone\" italienischer Gemüseeintopf",
-   "name_en": "Minestrone italienischer vegetables stew",
+   "name_de": "Kartoffeleintopf",
+   "name_en": "Potato stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -103,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Rinderhackfleischsauce \"Bolognese Art\", Chili con carne, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta chicken breast strips in grüne pepper cream sauce , minced beef sauce Bolognese style, Chili con carne, Tofucurry Sumatra, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Hähnchenbruststreifen \"Mediterrane Art\" mit Gemüse, Champignons a la creme, Linsen-Ragout mit Kokosmilch, Champignons a la creme, Carbonara, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta chicken breast strips Mediterrane style with vegetables , mushroom s a la creme, lentils Ragout with coconut milch, mushroom s a la creme, Carbonara, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -123,13 +133,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Healthy Campus Bonn: Linsen-Curry mit Mango-Chili-Dip und Gerste: Urkorn aus Deutschland",
-   "name_en": "Healthy Campus Bonn: lentils Curry with Mango Chili Dip and Gerste: Urkorn aus Deutschland",
+   "name_de": "Healthy Campus Bonn: Kartoffel-Blumenkohl-Gratin mit Joghurt-Dip und Rote-Bete-Salat",
+   "name_en": "Healthy Campus Bonn: potato cauliflower Gratin with yoghurt Dip and Rote Bete salad",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 560,
+   "protein": 12,
+   "carbs": 80,
+   "fat": 20,
    "note": "Rough estimate"
   }
  ]

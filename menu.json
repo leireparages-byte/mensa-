@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 17 Nov 2026",
+ "date": "Wed 18 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza mit Ananas und Putenstreifen",
-   "name_en": "Pizza with Ananas and Putenstreifen",
+   "name_de": "Pizza \"Peperoni\"",
+   "name_en": "Pizza Peperoni",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,33 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Penne allarrabiatta",
-   "name_en": "Penne allarrabiatta",
+   "name_de": "Sellerischnitzel mit veganem Paprika-Joghurt Dip",
+   "name_en": "Sellerischnitzel with veganem pepper yoghurt Dip",
    "category": "Main",
-   "kcal": 700,
-   "protein": 26,
-   "carbs": 95,
-   "fat": 24,
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
    "note": "Rough estimate"
   },
   {
-   "name_de": "GreenThai-Geschnetzeltes mit Rindfleisch",
-   "name_en": "GreenThai Geschnetzeltes with Rindfleisch",
+   "name_de": "Schweinerahmgulasch mit grünen Bohnen und Perlzwiebeln",
+   "name_en": "Pork rahm goulash with grünen beans and Perl onions",
    "category": "Main",
    "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Schmorkraut-Soja-Topf",
-   "name_en": "Schmorkraut soy Topf",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
+   "protein": 38,
+   "carbs": 40,
+   "fat": 28,
    "note": "Rough estimate"
   },
   {
@@ -63,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Apfelrotkohl Kohlrabigemüse, Leipziger Allerlei",
-   "name_en": "Apfel red cabbage Kohlrabi vegetables , Leipziger Allerlei",
+   "name_de": "Pariser Karotten Mischgemüse, Broccoli",
+   "name_en": "Pariser carrots Misch vegetables , Broccoli",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Runde Kartoffelkroketten",
-   "name_en": "Runde potato kroketten",
+   "name_de": "Pommes frites",
+   "name_en": "Fries frites",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Basmatireis Gourmet-Gerste: Urkorn aus Deutschland, Kartoffelklöße",
-   "name_en": "Basmati rice Gourmet Gerste: Urkorn aus Deutschland, potato dumplings",
+   "name_de": "Reis Bio Nudeln, Kartoffelpüree",
+   "name_en": "Rice organic noodles , potato mash",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Nussnougatpudding",
-   "name_en": "Nussnougatpudding",
+   "name_de": "Heidelbeerquark",
+   "name_en": "Heidelbeerquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffeleintopf",
-   "name_en": "Potato stew",
+   "name_de": "Rheinischer Buttermilch-Bohneneintopf",
+   "name_en": "Rheinischer Buttermilch beans stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -113,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Hähnchenbruststreifen \"Mediterrane Art\" mit Gemüse, Champignons a la creme, Linsen-Ragout mit Kokosmilch, Champignons a la creme, Carbonara, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta chicken breast strips Mediterrane style with vegetables , mushroom s a la creme, lentils Ragout with coconut milch, mushroom s a la creme, Carbonara, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Carbonara, Tomaten-Paprika Sauce \"all`arrabbiata\", Hähnchenbruststreifen \"Mediterrane Art\" mit Gemüse, Rinderstreifen in Rahmsauce, Champignons a la creme, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Carbonara, tomato pepper Sauce all`arrabbiata, chicken breast strips Mediterrane style with vegetables , beef streifen in cream sauce , mushroom s a la creme, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -133,13 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Healthy Campus Bonn: Kartoffel-Blumenkohl-Gratin mit Joghurt-Dip und Rote-Bete-Salat",
-   "name_en": "Healthy Campus Bonn: potato cauliflower Gratin with yoghurt Dip and Rote Bete salad",
+   "name_de": "Healthy Campus Bonn: Wildlachs-Mash-Bowl",
+   "name_en": "Healthy Campus Bonn: wild salmon Mash Bowl",
    "category": "Pan",
-   "kcal": 560,
-   "protein": 12,
-   "carbs": 80,
-   "fat": 20,
+   "kcal": 580,
+   "protein": 36,
+   "carbs": 55,
+   "fat": 22,
    "note": "Rough estimate"
   }
  ]

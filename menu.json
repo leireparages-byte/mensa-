@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Wed 18 Nov 2026",
+ "date": "Thu 19 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Peperoni\"",
-   "name_en": "Pizza Peperoni",
+   "name_de": "Pizza \"Spinat\"",
+   "name_en": "Pizza spinach",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,23 +23,33 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sellerischnitzel mit veganem Paprika-Joghurt Dip",
-   "name_en": "Sellerischnitzel with veganem pepper yoghurt Dip",
+   "name_de": "Rosenkohl-Curry mit roten Linsen",
+   "name_en": "Rosenkohl Curry with roten lentils",
    "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schweinerahmgulasch mit grünen Bohnen und Perlzwiebeln",
-   "name_en": "Pork rahm goulash with grünen beans and Perl onions",
+   "name_de": "Hähnchen-Dönerfleisch mit Karotten-Joghurt-Dip",
+   "name_en": "Chicken doner fleisch with carrots yoghurt Dip",
    "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
+   "kcal": 750,
+   "protein": 35,
+   "carbs": 70,
+   "fat": 34,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Vegetarische Wirsinlasagne an Tomaten-Sugo",
+   "name_en": "Vegetarische Wirsinlasagne an tomato Sugo",
+   "category": "Main",
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
    "note": "Rough estimate"
   },
   {
@@ -53,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pariser Karotten Mischgemüse, Broccoli",
-   "name_en": "Pariser carrots Misch vegetables , Broccoli",
+   "name_de": "Erbsen-Möhrengemüse Broccoli, Bayrisch Kraut",
+   "name_en": "Peas carrots vegetables Broccoli, Bayrisch Kraut",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -63,7 +73,7 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes frites",
+   "name_de": "Pommes-frites",
    "name_en": "Fries frites",
    "category": "Side",
    "kcal": 260,
@@ -73,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Bio Nudeln, Kartoffelpüree",
-   "name_en": "Rice organic noodles , potato mash",
+   "name_de": "Tomatenreis Bio Salzkartoffeln, Bio Nudeln",
+   "name_en": "Tomato reis organic Salz potatoes , organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Heidelbeerquark",
-   "name_en": "Heidelbeerquark",
+   "name_de": "Vanillepudding Heidelbeerqurk",
+   "name_en": "Vanillepudding Heidelbeerqurk",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Carbonara, Tomaten-Paprika Sauce \"all`arrabbiata\", Hähnchenbruststreifen \"Mediterrane Art\" mit Gemüse, Rinderstreifen in Rahmsauce, Champignons a la creme, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta Carbonara, tomato pepper Sauce all`arrabbiata, chicken breast strips Mediterrane style with vegetables , beef streifen in cream sauce , mushroom s a la creme, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Rinderhackfleischsauce \"Bolognese Art\", Rindergeschnetzeltes in Rahmsauce, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta minced beef sauce Bolognese style, beef geschnetzeltes in cream sauce , Tofucurry Sumatra, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -123,13 +133,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Healthy Campus Bonn: Wildlachs-Mash-Bowl",
-   "name_en": "Healthy Campus Bonn: wild salmon Mash Bowl",
+   "name_de": "Healthy Campus Bonn: Hähnchen-Buchweizen-Bowl",
+   "name_en": "Healthy Campus Bonn: chicken Buchweizen Bowl",
    "category": "Pan",
-   "kcal": 580,
-   "protein": 36,
-   "carbs": 55,
-   "fat": 22,
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   }
  ]

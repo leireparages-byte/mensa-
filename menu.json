@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Fri 20 Nov 2026",
+ "date": "Mon 23 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Hähnchen Döner\"",
-   "name_en": "Pizza chicken doner",
+   "name_de": "Pizza \"Kürbis\"",
+   "name_en": "Pizza pumpkin",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,23 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Quinoa-Erbsen-Auflauf mit Sonnenblumenkernen Olivensalsa",
-   "name_en": "Quinoa peas bake with Sonnenblumenkernen Olivensalsa",
+   "name_de": "Hähnchenschnitzel mit Paprikarahmsauce",
+   "name_en": "Chicken schnitzel with pepper cream sauce",
    "category": "Main",
-   "kcal": 620,
-   "protein": 20,
-   "carbs": 80,
-   "fat": 24,
+   "kcal": 560,
+   "protein": 34,
+   "carbs": 28,
+   "fat": 33,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Gebackenes Schollenfilet mit Paprika-Joghurt-Dip",
-   "name_en": "Baked s Schollenfilet with pepper yoghurt Dip",
+   "name_de": "Blumenkohl-Kartoffel-Curry",
+   "name_en": "Cauliflower potato Curry",
    "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
+   "kcal": 620,
+   "protein": 22,
+   "carbs": 88,
+   "fat": 16,
    "note": "Rough estimate"
   },
   {
@@ -53,8 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Mix-Blattsalat",
-   "name_en": "Mix leaf salad",
+   "name_de": "Mix-Blattsalat Dressing",
+   "name_en": "Mix leaf salad Dressing",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -63,8 +63,28 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blattspinat Zucchini-Maisgemüse",
-   "name_en": "Blatt spinach Zucchini corn vegetables",
+   "name_de": "Kartoffelkroketten",
+   "name_en": "Potato kroketten",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Basmatireis Quinoa-Erbsen-Auflauf mit Sonnenblumenkernen, Bulgur, Bio Nudeln",
+   "name_en": "Basmati rice Quinoa peas bake with Sonnenblumenkernen, Bulgur, organic noodles",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bohnengemüse Möhrengemüse",
+   "name_en": "Beans vegetables carrots vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,28 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln",
-   "name_en": "Fried potatoes",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Bulgur Buchweizen, Bio Nudeln, Reis, Bio Salzkartoffeln",
-   "name_en": "Bulgur Buchweizen, organic noodles , rice, organic Salz potatoes",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Vanillepudding",
-   "name_en": "Vanillepudding",
+   "name_de": "Pudding",
+   "name_en": "Pudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,33 +103,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Rheinischer Buttermilch-Bohneneintopf Kartoffeleintopf",
-   "name_en": "Rheinischer Buttermilch beans stew potato stew",
+   "name_de": "Kartoffel-Laucheintopf",
+   "name_en": "Potato Lauch stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
    "carbs": 32,
    "fat": 7,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Süßes Schmankerl Kokos Soja-Milchreis mit Zimt und Zucker",
-   "name_en": "Süßes Schmankerl coconut soy Milchreis with Zimt and Zucker",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
-   "fat": 7,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Frische Bio Pasta Hähnchenbruststreifen in grüne Pfeffer-Rahmsauce, Tofucurry \"Sumatra\", Rinderhackfleischsauce \"Bolognese Art\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta chicken breast strips in grüne pepper cream sauce , Tofucurry Sumatra, minced beef sauce Bolognese style, tomato Sugo, basil Pesto",
-   "category": "Buffet",
-   "kcal": 150,
-   "protein": 5,
-   "carbs": 12,
-   "fat": 9,
    "note": "Rough estimate"
   },
   {
@@ -143,13 +123,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Healthy Campus Bonn: Gemüse-Naturreis-Pfanne mit Kichererbsen und Paprikasalsa",
-   "name_en": "Healthy Campus Bonn: vegetables brown rice pan with chickpeas and pepper salsa",
+   "name_de": "Frische Bio Pasta Chili sin carne, Champignons a la creme, Carbonara, Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Chili sin carne, mushroom s a la creme, Carbonara, chicken breast strips with vegetables in cream sauce , tomato Sugo, basil Pesto",
+   "category": "Buffet",
+   "kcal": 150,
+   "protein": 5,
+   "carbs": 12,
+   "fat": 9,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Leider ausverkauft!",
+   "name_en": "Leider ausverkauft!",
    "category": "Pan",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 600,
+   "protein": 30,
+   "carbs": 70,
+   "fat": 20,
    "note": "Rough estimate"
   }
  ]

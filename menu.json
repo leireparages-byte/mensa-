@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Mon 23 Nov 2026",
+ "date": "Tue 24 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Kürbis\"",
-   "name_en": "Pizza pumpkin",
+   "name_de": "Pizza \"Speziale\"",
+   "name_en": "Pizza Speziale",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,13 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Hähnchenschnitzel mit Paprikarahmsauce",
-   "name_en": "Chicken schnitzel with pepper cream sauce",
+   "name_de": "Kürbis Gnocchi mit Tomaten-Basilikumsauce",
+   "name_en": "Pumpkin Gnocchi with tomato basil sauce",
    "category": "Main",
-   "kcal": 560,
-   "protein": 34,
-   "carbs": 28,
-   "fat": 33,
+   "kcal": 650,
+   "protein": 16,
+   "carbs": 105,
+   "fat": 16,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Putengeschnetzeltes mit Erbsen und Mango",
+   "name_en": "Putengeschnetzeltes with peas and Mango",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -43,18 +53,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Schweinerahmgulasch mit grünen Bohnen und Perlzwiebeln",
-   "name_en": "Pork rahm goulash with grünen beans and Perl onions",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
-   "fat": 28,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Mix-Blattsalat Dressing",
-   "name_en": "Mix leaf salad Dressing",
+   "name_de": "Mix-Blattsalat",
+   "name_en": "Mix leaf salad",
    "category": "Side",
    "kcal": 70,
    "protein": 2,
@@ -63,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffelkroketten",
-   "name_en": "Potato kroketten",
+   "name_de": "Herzoginkartoffeln",
+   "name_en": "Herzogin potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -73,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Basmatireis Quinoa-Erbsen-Auflauf mit Sonnenblumenkernen, Bulgur, Bio Nudeln",
-   "name_en": "Basmati rice Quinoa peas bake with Sonnenblumenkernen, Bulgur, organic noodles",
+   "name_de": "Vollkornreis Bio Nudeln",
+   "name_en": "Whole grain rice organic noodles",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bohnengemüse Möhrengemüse",
-   "name_en": "Beans vegetables carrots vegetables",
+   "name_de": "Chinagemüse Broccoli, Erbsen-Möhrengemüse",
+   "name_en": "China vegetables Broccoli, peas carrots vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -93,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pudding",
-   "name_en": "Pudding",
+   "name_de": "Fruchtquark",
+   "name_en": "Fruchtquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kartoffel-Laucheintopf",
-   "name_en": "Potato Lauch stew",
+   "name_de": "Tomatensuppe mit Reisnudeln",
+   "name_en": "Tomato soup with rice noodles",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -123,23 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Chili sin carne, Champignons a la creme, Carbonara, Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta Chili sin carne, mushroom s a la creme, Carbonara, chicken breast strips with vegetables in cream sauce , tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Carbonara, Chili sin carne, Champignons a la creme, Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta Carbonara, Chili sin carne, mushroom s a la creme, chicken breast strips with vegetables in cream sauce , tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
    "carbs": 12,
    "fat": 9,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Leider ausverkauft!",
-   "name_en": "Leider ausverkauft!",
-   "category": "Pan",
-   "kcal": 600,
-   "protein": 30,
-   "carbs": 70,
-   "fat": 20,
    "note": "Rough estimate"
   }
  ]

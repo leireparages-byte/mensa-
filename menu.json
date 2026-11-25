@@ -1,6 +1,6 @@
 {
  "mensa": "Mensa Campo",
- "date": "Tue 24 Nov 2026",
+ "date": "Wed 25 Nov 2026",
  "items": [
   {
    "name_de": "Pizza \"Margherita\"",
@@ -13,8 +13,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Speziale\"",
-   "name_en": "Pizza Speziale",
+   "name_de": "Pizza \"Gorgonzola\"",
+   "name_en": "Pizza Gorgonzola",
    "category": "Special",
    "kcal": 800,
    "protein": 32,
@@ -23,13 +23,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kürbis Gnocchi mit Tomaten-Basilikumsauce",
-   "name_en": "Pumpkin Gnocchi with tomato basil sauce",
+   "name_de": "Sauerkraut-Schupfnudelpfanne mit Kräuterdip",
+   "name_en": "Sauerkraut Schupfnudel pan with herbs dip",
    "category": "Main",
-   "kcal": 650,
-   "protein": 16,
-   "carbs": 105,
-   "fat": 16,
+   "kcal": 700,
+   "protein": 26,
+   "carbs": 95,
+   "fat": 24,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Red Thai-Geschnetzeltes mit Schweinefleisch",
+   "name_en": "Red Thai Geschnetzeltes with pork fleisch",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
    "note": "Rough estimate"
   },
   {
@@ -43,13 +53,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Blumenkohl-Kartoffel-Curry",
-   "name_en": "Cauliflower potato Curry",
+   "name_de": "Sojageschnetzeltes \"Züricher Art\"",
+   "name_en": "Sojageschnetzeltes Züricher style",
    "category": "Main",
-   "kcal": 620,
-   "protein": 22,
-   "carbs": 88,
-   "fat": 16,
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
    "note": "Rough estimate"
   },
   {
@@ -63,28 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Herzoginkartoffeln",
-   "name_en": "Herzogin potatoes",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Vollkornreis Bio Nudeln",
-   "name_en": "Whole grain rice organic noodles",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Chinagemüse Broccoli, Erbsen-Möhrengemüse",
-   "name_en": "China vegetables Broccoli, peas carrots vegetables",
+   "name_de": "Rosenkohl Blumenkohlgemüse \"Indisch\"",
+   "name_en": "Rosenkohl cauliflower vegetables Indisch",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -93,8 +83,28 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtquark",
-   "name_en": "Fruchtquark",
+   "name_de": "Pommes-frites",
+   "name_en": "Fries frites",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bio Salzkartoffeln Bio Nudeln, Reis",
+   "name_en": "Organic Salz potatoes organic noodles , rice",
+   "category": "Side",
+   "kcal": 260,
+   "protein": 8,
+   "carbs": 52,
+   "fat": 2,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Fruchtjoghurt",
+   "name_en": "Frucht yoghurt",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Tomatensuppe mit Reisnudeln",
-   "name_en": "Tomato soup with rice noodles",
+   "name_de": "Erbseneintopf",
+   "name_en": "Peas stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -123,13 +133,23 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Carbonara, Chili sin carne, Champignons a la creme, Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta Carbonara, Chili sin carne, mushroom s a la creme, chicken breast strips with vegetables in cream sauce , tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Champignons a la creme, Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tofucurry \"Sumatra\", Rinderhackfleischsauce \"Bolognese Art\", Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Pasta mushroom s a la creme, chicken breast strips with vegetables in cream sauce , Tofucurry Sumatra, minced beef sauce Bolognese style, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
    "carbs": 12,
    "fat": 9,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Vegetarischer Zwiebelkuchen mit Kürbis mit frischem Möhrensalat",
+   "name_en": "Vegetarischer onion cake with pumpkin with fresh m carrots salad",
+   "category": "Pan",
+   "kcal": 350,
+   "protein": 12,
+   "carbs": 25,
+   "fat": 22,
    "note": "Rough estimate"
   }
  ]

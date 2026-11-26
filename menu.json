@@ -1,7 +1,17 @@
 {
  "mensa": "Mensa Campo",
- "date": "Wed 25 Nov 2026",
+ "date": "Thu 26 Nov 2026",
  "items": [
+  {
+   "name_de": "Pizza \"Champignon\"vegetarisch",
+   "name_en": "Pizza mushroom vegetarisch",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
+   "fat": 28,
+   "note": "Rough estimate"
+  },
   {
    "name_de": "Pizza \"Margherita\"",
    "name_en": "Pizza Margherita",
@@ -13,28 +23,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pizza \"Gorgonzola\"",
-   "name_en": "Pizza Gorgonzola",
-   "category": "Special",
-   "kcal": 800,
-   "protein": 32,
-   "carbs": 100,
-   "fat": 28,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Sauerkraut-Schupfnudelpfanne mit Kräuterdip",
-   "name_en": "Sauerkraut Schupfnudel pan with herbs dip",
-   "category": "Main",
-   "kcal": 700,
-   "protein": 26,
-   "carbs": 95,
-   "fat": 24,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Red Thai-Geschnetzeltes mit Schweinefleisch",
-   "name_en": "Red Thai Geschnetzeltes with pork fleisch",
+   "name_de": "Knusperschnitte mit Erdnusssauce",
+   "name_en": "Knusperschnitte with peanut sauce",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
@@ -43,13 +33,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Putengeschnetzeltes mit Erbsen und Mango",
-   "name_en": "Putengeschnetzeltes with peas and Mango",
+   "name_de": "Rheinischer Sauerbratengulasch",
+   "name_en": "Rheinischer Sauerbraten goulash",
    "category": "Main",
-   "kcal": 620,
-   "protein": 40,
-   "carbs": 70,
-   "fat": 18,
+   "kcal": 600,
+   "protein": 38,
+   "carbs": 40,
+   "fat": 28,
    "note": "Rough estimate"
   },
   {
@@ -73,8 +63,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Rosenkohl Blumenkohlgemüse \"Indisch\"",
-   "name_en": "Rosenkohl cauliflower vegetables Indisch",
+   "name_de": "Kaisergemüse",
+   "name_en": "Mixed vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -83,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Pommes-frites",
-   "name_en": "Fries frites",
+   "name_de": "Bratkartoffeln",
+   "name_en": "Fried potatoes",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -93,8 +83,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bio Salzkartoffeln Bio Nudeln, Reis",
-   "name_en": "Organic Salz potatoes organic noodles , rice",
+   "name_de": "Reis Bio Nudeln, Kartoffelklöße",
+   "name_en": "Rice organic noodles , potato dumplings",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -103,8 +93,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Fruchtjoghurt",
-   "name_en": "Frucht yoghurt",
+   "name_de": "Pudding",
+   "name_en": "Pudding",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -113,8 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Erbseneintopf",
-   "name_en": "Peas stew",
+   "name_de": "Gemüseeintopf mit Quinoa Erbseneintopf",
+   "name_en": "Vegetables stew with Quinoa peas stew",
    "category": "Soup",
    "kcal": 230,
    "protein": 7,
@@ -123,8 +113,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Salatbuffet Poppelsdorf",
-   "name_en": "Salad buffet Poppelsdorf",
+   "name_de": "Salatbuffet Poppelsdorf Heute nur im Obergeschoss",
+   "name_en": "Salad buffet Poppelsdorf Heute nur im Obergeschoss",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -133,23 +123,13 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Champignons a la creme, Hähnchenbruststreifen mit Gemüse in Rahmsauce, Tofucurry \"Sumatra\", Rinderhackfleischsauce \"Bolognese Art\", Tomaten-Sugo, Basilikum Pesto",
-   "name_en": "Fresh organic Pasta mushroom s a la creme, chicken breast strips with vegetables in cream sauce , Tofucurry Sumatra, minced beef sauce Bolognese style, tomato Sugo, basil Pesto",
+   "name_de": "Frische Bio Pasta Rucola-Mandel-Pesto, Gorgonzolasauce, Red Thai-Geschnetzeltes mit Schweinefleisch, Tofucurry \"Sumatra\", Rinderhackfleischsauce \"Bolognese Art\", Tomaten-Sugo",
+   "name_en": "Fresh organic Pasta Rucola almond Pesto, Gorgonzolasauce, Red Thai Geschnetzeltes with pork fleisch, Tofucurry Sumatra, minced beef sauce Bolognese style, tomato Sugo",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
    "carbs": 12,
    "fat": 9,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Vegetarischer Zwiebelkuchen mit Kürbis mit frischem Möhrensalat",
-   "name_en": "Vegetarischer onion cake with pumpkin with fresh m carrots salad",
-   "category": "Pan",
-   "kcal": 350,
-   "protein": 12,
-   "carbs": 25,
-   "fat": 22,
    "note": "Rough estimate"
   }
  ]

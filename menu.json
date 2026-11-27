@@ -1,17 +1,7 @@
 {
  "mensa": "Mensa Campo",
- "date": "Thu 26 Nov 2026",
+ "date": "Fri 27 Nov 2026",
  "items": [
-  {
-   "name_de": "Pizza \"Champignon\"vegetarisch",
-   "name_en": "Pizza mushroom vegetarisch",
-   "category": "Special",
-   "kcal": 800,
-   "protein": 32,
-   "carbs": 100,
-   "fat": 28,
-   "note": "Rough estimate"
-  },
   {
    "name_de": "Pizza \"Margherita\"",
    "name_en": "Pizza Margherita",
@@ -23,33 +13,53 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Knusperschnitte mit Erdnusssauce",
-   "name_en": "Knusperschnitte with peanut sauce",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 24,
-   "carbs": 72,
-   "fat": 22,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Rheinischer Sauerbratengulasch",
-   "name_en": "Rheinischer Sauerbraten goulash",
-   "category": "Main",
-   "kcal": 600,
-   "protein": 38,
-   "carbs": 40,
+   "name_de": "Pizza \"Pollo\"",
+   "name_en": "Pizza Pollo",
+   "category": "Special",
+   "kcal": 800,
+   "protein": 32,
+   "carbs": 100,
    "fat": 28,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Sojageschnetzeltes \"Züricher Art\"",
-   "name_en": "Sojageschnetzeltes Züricher style",
+   "name_de": "Naturreis-Pfanne \"Athen\" mit vegane Tzatziki",
+   "name_en": "Brown rice pan Athen with vegane Tzatziki",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 16,
+   "carbs": 100,
+   "fat": 14,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Blauer Wittling mit Senf-Kräutersauce",
+   "name_en": "Blauer Wittling with mustard herbs sauce",
    "category": "Main",
    "kcal": 600,
    "protein": 24,
    "carbs": 72,
    "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Vegetarischer Zwiebelkuchen mit Kürbis",
+   "name_en": "Vegetarischer onion cake with pumpkin",
+   "category": "Main",
+   "kcal": 600,
+   "protein": 24,
+   "carbs": 72,
+   "fat": 22,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Putengeschnetzeltes mit Erbsen und Mango",
+   "name_en": "Putengeschnetzeltes with peas and Mango",
+   "category": "Main",
+   "kcal": 620,
+   "protein": 40,
+   "carbs": 70,
+   "fat": 18,
    "note": "Rough estimate"
   },
   {
@@ -63,8 +73,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Kaisergemüse",
-   "name_en": "Mixed vegetables",
+   "name_de": "Blattspinat Kaisergemüse, Mediterranes Pfannengemüse",
+   "name_en": "Blatt spinach mixed vegetables , Mediterranes pan n vegetables",
    "category": "Side",
    "kcal": 60,
    "protein": 4,
@@ -73,8 +83,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Bratkartoffeln",
-   "name_en": "Fried potatoes",
+   "name_de": "Potato Wedges",
+   "name_en": "Potato Wedges",
+   "category": "Side",
+   "kcal": 150,
+   "protein": 4,
+   "carbs": 25,
+   "fat": 3,
+   "note": "Rough estimate"
+  },
+  {
+   "name_de": "Bio Salzkartoffeln Reis, Couscous",
+   "name_en": "Organic Salz potatoes rice, Couscous",
    "category": "Side",
    "kcal": 260,
    "protein": 8,
@@ -83,18 +103,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Reis Bio Nudeln, Kartoffelklöße",
-   "name_en": "Rice organic noodles , potato dumplings",
-   "category": "Side",
-   "kcal": 260,
-   "protein": 8,
-   "carbs": 52,
-   "fat": 2,
-   "note": "Rough estimate"
-  },
-  {
-   "name_de": "Pudding",
-   "name_en": "Pudding",
+   "name_de": "Fruchtquark",
+   "name_en": "Fruchtquark",
    "category": "Dessert",
    "kcal": 220,
    "protein": 6,
@@ -103,18 +113,18 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Gemüseeintopf mit Quinoa Erbseneintopf",
-   "name_en": "Vegetables stew with Quinoa peas stew",
-   "category": "Soup",
-   "kcal": 230,
-   "protein": 7,
-   "carbs": 32,
+   "name_de": "Süßes Schmankerl Milchreis",
+   "name_en": "Süßes Schmankerl Milchreis",
+   "category": "Dessert",
+   "kcal": 220,
+   "protein": 6,
+   "carbs": 34,
    "fat": 7,
    "note": "Rough estimate"
   },
   {
-   "name_de": "Salatbuffet Poppelsdorf Heute nur im Obergeschoss",
-   "name_en": "Salad buffet Poppelsdorf Heute nur im Obergeschoss",
+   "name_de": "Salatbuffet Poppelsdorf",
+   "name_en": "Salad buffet Poppelsdorf",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
@@ -123,8 +133,8 @@
    "note": "Rough estimate"
   },
   {
-   "name_de": "Frische Bio Pasta Rucola-Mandel-Pesto, Gorgonzolasauce, Red Thai-Geschnetzeltes mit Schweinefleisch, Tofucurry \"Sumatra\", Rinderhackfleischsauce \"Bolognese Art\", Tomaten-Sugo",
-   "name_en": "Fresh organic Pasta Rucola almond Pesto, Gorgonzolasauce, Red Thai Geschnetzeltes with pork fleisch, Tofucurry Sumatra, minced beef sauce Bolognese style, tomato Sugo",
+   "name_de": "Frische Bio Dinkel-Pasta Red Thai-Geschnetzeltes mit Schweinefleisch, Champignons a la creme, Gorgonzolasauce, Tofucurry \"Sumatra\", Tomaten-Sugo, Basilikum Pesto",
+   "name_en": "Fresh organic Dinkel Pasta Red Thai Geschnetzeltes with pork fleisch, mushroom s a la creme, Gorgonzolasauce, Tofucurry Sumatra, tomato Sugo, basil Pesto",
    "category": "Buffet",
    "kcal": 150,
    "protein": 5,
